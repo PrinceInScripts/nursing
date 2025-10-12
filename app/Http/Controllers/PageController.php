@@ -14,6 +14,13 @@ class PageController extends Controller
 
     public function about()
     {
-        return view('about');
+        return view('pages.about.about');
+    }
+
+    public function course(){
+        return view('pages.course.course');
+    }
+    public function admission(){
+        return view('pages.admission.admission');
     }
 }

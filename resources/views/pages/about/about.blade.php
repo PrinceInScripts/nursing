@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-	<!-- Mirrored from unicamp.thememove.com/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 21:34:35 GMT -->
+	<!-- Mirrored from unicamp.thememove.com/main/about/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 21:38:08 GMT -->
 	<!-- Added by HTTrack --><meta http-equiv="content-type"
 		content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="profile" href="https://gmpg.org/xfn/11">
-		<title>Main &#8211; Just another UniCamp Sites site</title>
+		<title>About &#8211; Main</title>
 		<meta name='robots' content='max-image-preview:large' />
 		<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
 		<link rel="alternate" type="application/rss+xml" title="Main &raquo; Feed"
-			href="feed/index.html" />
+			href="../feed/index.html" />
 		<link rel="alternate" type="application/rss+xml"
-			title="Main &raquo; Comments Feed" href="comments/feed/index.html" />
+			title="Main &raquo; Comments Feed" href="../comments/feed/index.html" />
 		<style id='classic-theme-styles-inline-css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -26,71 +26,71 @@
 :root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 </style>
 		<link rel='stylesheet' id='powertip-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/css/jquery.powertip.min7359.css?ver=1.2.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/css/jquery.powertip.min7359.css?ver=1.2.0'
 			media='all' />
 		<link rel='stylesheet' id='maps-points-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/css/maps_points1efe.css?ver=1.2.8'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/css/maps_points1efe.css?ver=1.2.8'
 			media='all' />
 		<link rel='stylesheet' id='isw-frontend-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/insight-swatches/assets/css/style32d4.css?ver=6.8.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/insight-swatches/assets/css/style32d4.css?ver=6.8.3'
 			media='all' />
 		<link rel='stylesheet' id='tutor-icon-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor-icon.min3b71.css?ver=3.5.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor-icon.min3b71.css?ver=3.5.0'
 			media='all' />
 		<link rel='stylesheet' id='tutor-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor.min3b71.css?ver=3.5.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor.min3b71.css?ver=3.5.0'
 			media='all' />
 		<link rel='stylesheet' id='tutor-frontend-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor-front.min3b71.css?ver=3.5.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/css/tutor-front.min3b71.css?ver=3.5.0'
 			media='all' />
 		<style id='tutor-frontend-inline-css'>
 .mce-notification.mce-notification-error{display: none !important;}
 :root{--tutor-border-color:#E3E5EB;--tutor-border-color-rgb:227, 229, 235;--tutor-color-gray:#CDCFD5;--tutor-color-gray-rgb:205, 207, 213;}
 </style>
 		<link rel='stylesheet' id='tutor-prism-css-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/codesample/prism3b71.css?ver=3.5.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/codesample/prism3b71.css?ver=3.5.0'
 			media='all' />
 		<link rel='stylesheet' id='tutor-pro-front-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/css/front3b71.css?ver=3.5.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/css/front3b71.css?ver=3.5.0'
 			media='all' />
 		<style id='woocommerce-inline-inline-css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
 		<link rel='stylesheet' id='perfect-scrollbar-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min32d4.css?ver=6.8.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/css/perfect-scrollbar.min32d4.css?ver=6.8.3'
 			media='all' />
 		<link rel='stylesheet' id='perfect-scrollbar-wpc-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/css/custom-theme32d4.css?ver=6.8.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/css/custom-theme32d4.css?ver=6.8.3'
 			media='all' />
 		<link rel='stylesheet' id='woosc-frontend-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/css/frontend75e4.css?ver=6.4.5'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/css/frontend75e4.css?ver=6.4.5'
 			media='all' />
 		<link rel='stylesheet' id='woosw-icons-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/css/iconsd87f.css?ver=4.9.9'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/css/iconsd87f.css?ver=4.9.9'
 			media='all' />
 		<link rel='stylesheet' id='woosw-frontend-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/css/frontendd87f.css?ver=4.9.9'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/css/frontendd87f.css?ver=4.9.9'
 			media='all' />
 		<style id='woosw-frontend-inline-css'>
 .woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-bot .woosw-notice { background-color: #5fbd74; } .woosw-popup .woosw-popup-inner .woosw-popup-content .woosw-popup-content-bot .woosw-popup-content-bot-inner a:hover { color: #5fbd74; border-color: #5fbd74; } 
 </style>
 		<link rel='stylesheet' id='brands-styles-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/css/brands519f.css?ver=9.8.5'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/css/brands519f.css?ver=9.8.5'
 			media='all' />
 		<link rel='stylesheet' id='font-gordita-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/gordita/font-gordita.min.css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/gordita/font-gordita.min.css'
 			media='all' />
 		<link rel='stylesheet' id='font-butler-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/butler/font-butler.min.css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/butler/font-butler.min.css'
 			media='all' />
 		<link rel='stylesheet' id='font-awesome-pro-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/awesome/css/fontawesome-all.min1e39.css?ver=6.4.2'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/fonts/awesome/css/fontawesome-all.min1e39.css?ver=6.4.2'
 			media='all' />
 		<link rel='stylesheet' id='swiper-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min94a4.css?ver=8.4.5'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-style-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/style.min91ee.css?ver=2.5.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/style.min91ee.css?ver=2.5.3'
 			media='all' />
 		<style id='unicamp-style-inline-css'>
 :root {
@@ -138,58 +138,58 @@
 .boxed{max-width:1200px}::-moz-selection{color:#fff;background-color:#ae152d}::selection{color:#fff;background-color:#ae152d}.primary-fill-color{fill:#ae152d}.lg-backdrop{background-color:#000 !important}.page-mobile-main-menu>.inner{background-color:#3f3a64;background-repeat:no-repeat;background-size:cover;background-attachment:scroll;background-position:top center}
 </style>
 		<link rel='stylesheet' id='growl-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/growl/css/jquery.growl.min3ba1.css?ver=1.3.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/growl/css/jquery.growl.min3ba1.css?ver=1.3.3'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-woocommerce-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/woocommerce.min91ee.css?ver=2.5.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/woocommerce.min91ee.css?ver=2.5.3'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-zoom-meetings-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/video-conferencing-zoom.min.css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/video-conferencing-zoom.min.css'
 			media='all' />
 		<link rel='stylesheet' id='elementor-frontend-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/frontend.min0d09.css?ver=3.29.0'
-			media='all' />
-		<link rel='stylesheet' id='widget-spacer-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/widget-spacer.min0d09.css?ver=3.29.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/frontend.min0d09.css?ver=3.29.0'
 			media='all' />
 		<link rel='stylesheet' id='widget-image-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/widget-image.min0d09.css?ver=3.29.0'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/widget-image.min0d09.css?ver=3.29.0'
 			media='all' />
-		<link rel='stylesheet' id='elementor-icons-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minf531.css?ver=5.40.0'
-			media='all' />
-		<link rel='stylesheet' id='elementor-post-22-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-22537b.css?ver=1747731325'
+		<link rel='stylesheet' id='widget-spacer-css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/css/widget-spacer.min0d09.css?ver=3.29.0'
 			media='all' />
 		<link rel='stylesheet' id='lightgallery-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/lightGallery/css/lightgallery.mind203.css?ver=1.6.12'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/lightGallery/css/lightgallery.mind203.css?ver=1.6.12'
 			media='all' />
-		<link rel='stylesheet' id='elementor-post-2136-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-2136b2f1.css?ver=1747731610'
+		<link rel='stylesheet' id='elementor-icons-css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minf531.css?ver=5.40.0'
 			media='all' />
-		<link rel='stylesheet' id='elementor-post-2979-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-2979b2f1.css?ver=1747731610'
+		<link rel='stylesheet' id='elementor-post-22-css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-22537b.css?ver=1747731325'
+			media='all' />
+		<link rel='stylesheet' id='elementor-post-1775-css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-17752b8e.css?ver=1747734101'
+			media='all' />
+		<link rel='stylesheet' id='elementor-post-110-css'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/elementor/css/post-1104dec.css?ver=1747731316'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-tutor-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/tutor-lms.min91ee.css?ver=2.5.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/tutor-lms.min91ee.css?ver=2.5.3'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-child-demo-style-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/style32d4.css?ver=6.8.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/style32d4.css?ver=6.8.3'
 			media='all' />
 		<link rel='stylesheet' id='unicamp-events-manager-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/events-manager91ee.css?ver=2.5.3'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/events-manager91ee.css?ver=2.5.3'
 			media='all' />
 		<link rel='stylesheet' id='video-conferencing-with-zoom-api-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/video-conferencing-with-zoom-api/assets/public/css/style.min82d0.css?ver=4.6.4'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/video-conferencing-with-zoom-api/assets/public/css/style.min82d0.css?ver=4.6.4'
 			media='all' />
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1"
 			id="jquery-core-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1"
 			id="jquery-migrate-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.mina535.js?ver=2.7.0-wc.9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.mina535.js?ver=2.7.0-wc.9.8.5"
 			id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
 		<script id="wc-add-to-cart-js-extra">
 /* <![CDATA[ */
@@ -197,10 +197,10 @@ var wc_add_to_cart_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","wc_a
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min519f.js?ver=9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min519f.js?ver=9.8.5"
 			id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6761.js?ver=2.1.4-wc.9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6761.js?ver=2.1.4-wc.9.8.5"
 			id="js-cookie-js" data-wp-strategy="defer"></script>
 		<script id="woocommerce-js-extra">
 /* <![CDATA[ */
@@ -208,7 +208,7 @@ var woocommerce_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","wc_ajax
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min519f.js?ver=9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min519f.js?ver=9.8.5"
 			id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
 		<script id="wc-cart-fragments-js-extra">
 /* <![CDATA[ */
@@ -216,20 +216,20 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min519f.js?ver=9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min519f.js?ver=9.8.5"
 			id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
-		<link rel="https://api.w.org/" href="wp-json/index.html" /><link
+		<link rel="https://api.w.org/" href="../wp-json/index.html" /><link
 			rel="alternate" title="JSON" type="application/json"
-			href="wp-json/wp/v2/pages/2136.json" /><link rel="canonical"
+			href="../wp-json/wp/v2/pages/1775.json" /><link rel="canonical"
 			href="index.html" />
 		<link rel="icon"
-			href="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-32x32.png"
+			href="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-32x32.png"
 			sizes="32x32">
 		<link rel="icon"
-			href="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-192x192.png"
+			href="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-192x192.png"
 			sizes="192x192">
 		<link rel="apple-touch-icon-precomposed"
-			href="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-180x180.png">
+			href="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-180x180.png">
 		<meta name="msapplication-TileImage"
 			content="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/favicon/favicon-270x270.png">
 		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -303,10 +303,10 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 			//});
 		  };</script>
 		<style
-			id="kirki-inline-styles">body{color:#696969;background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}a{color:#696969;}a:hover, a:focus{color:#ae152d;}h1,h2,h3,h4,h5,h6,caption,th,blockquote, .heading, .heading-color{color:#111;}button, input[type="button"], input[type="reset"], input[type="submit"], .wp-block-button__link, .button, .wc-forward, .button.button-alt:hover, .elementor-button,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn,.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn, .tutor-button.tutor-success{color:#fff;border-color:#ae152d;background-color:#ae152d;}.wp-block-button.is-style-outline{color:#ae152d;}button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .wp-block-button__link:hover, .button:hover, .button:focus, .button-alt, .wc-forward:hover, .wc-forward:focus, .elementor-button:hover,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn:hover,.single_add_to_cart_button:hover, a.tutor-button:hover, .tutor-button:hover, a.tutor-btn:hover, .tutor-btn:hover, .tutor-button.tutor-success:hover{color:#fff;border-color:#111;background-color:#111;}.wp-block-button.is-style-outline .wp-block-button__link:hover{color:#111;}.tm-button.style-flat{color:#fff;border-color:#ae152d;}.tm-button.style-flat:before{background-color:#ae152d;}.tm-button.style-flat:hover{color:#fff;border-color:#111;}.tm-button.style-flat:after{background-color:#111;}.tm-button.style-border, .tm-button.style-thick-border{color:#ae152d;border-color:#ae152d;}.tm-button.style-border:before, .tm-button.style-thick-border:before{background-color:rgba(0, 0, 0, 0);}.tm-button.style-border:hover, .tm-button.style-thick-border:hover{color:#fff;border-color:#ae152d;}.tm-button.style-border:after, .tm-button.style-thick-border:after{background-color:#ae152d;}.top-bar-01{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:15px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-01 a{font-size:15px;font-weight:500;line-height:26px;color:#fff;}.top-bar-01 .top-bar-user-links a + a:before, .top-bar-01 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-01 a:hover, .top-bar-01 a:focus{color:#9D2235;}.top-bar-01 .info-list .info-icon{color:#9D2235;}.top-bar-01 .info-list .info-link:hover .info-icon{color:#9D2235;}.top-bar-02{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#10386B;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-02 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-02 .top-bar-user-links a + a:before, .top-bar-02 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-02 a:hover, .top-bar-02 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-02 .info-list .info-icon, .top-bar-02 .top-bar-icon{color:#fff;}.top-bar-02 .info-list .info-link:hover .info-icon, .top-bar-02 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.top-bar-03{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-03 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-03 .top-bar-user-links a + a:before, .top-bar-03 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-03 a:hover, .top-bar-03 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-03 .info-list .info-icon, .top-bar-03 .top-bar-icon{color:#fff;}.top-bar-03 .info-list .info-link:hover .info-icon, .top-bar-03 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.top-bar-04{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-04 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-04 .top-bar-user-links a + a:before, .top-bar-04 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-04 a:hover, .top-bar-04 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-04 .info-list .info-icon, .top-bar-04 .top-bar-icon{color:#fff;}.top-bar-04 .info-list .info-link:hover .info-icon, .top-bar-04 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.headroom--not-top .page-header-inner .header-wrap{min-height:80px;}#page-header.headroom--not-top .page-header-inner{background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-header.headroom--not-top .header-icon, .page-header.headroom--not-top .wpml-ls-item-toggle{color:#111 !important;}.page-header.headroom--not-top .header-icon:hover{color:#111 !important;}.page-header.headroom--not-top .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#111!important;}.page-header.headroom--not-top .header-social-networks a{color:#111 !important;}.page-header.headroom--not-top .header-social-networks a:hover{color:#111 !important;}.page-header.headroom--not-top .menu--primary > ul > li > a{color:#111 !important;}.page-header.headroom--not-top .menu--primary > li:hover > a, .page-header.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#ae152d !important;}.header-sticky-button.tm-button{color:#111;border-color:#eee;}.header-sticky-button.tm-button:before{background:rgba(17, 17, 17, 0);}.header-sticky-button.tm-button:hover{color:#fff;border-color:#111;}.header-sticky-button.tm-button:after{background:#111;}#page-header.headroom--not-top .search-field{color:#696969;border-color:#f5f5f5;background:#f5f5f5;}#page-header.headroom--not-top .search-field:focus{color:#333;border-color:#ae152d;background:#fff;}.header-more-tools-opened .header-right-inner{background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;border-width:1px;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 0 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 0 26px rgba(0, 0, 0, 0.05);box-shadow:0 0 26px rgba(0, 0, 0, 0.05);}.header-more-tools-opened .header-right-inner .header-social-networks a{color:#333!important;}.header-more-tools-opened .header-right-inner .header-social-networks a:hover{color:#ae152d!important;}.header-01 .page-header-inner{border-bottom-width:0px;}.header-01 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-01 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-01 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-01 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:12px;padding-right:12px;}.header-01.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-01.header-dark .header-icon, .header-01.header-dark .wpml-ls-item-toggle{color:#111;}.header-01.header-dark .header-icon:hover{color:#ae152d;}.header-01.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-01.header-dark .header-icon .badge, .header-01.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-01.header-dark .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-01.header-dark .menu--primary > ul > li > a{color:#fff;}.header-01.header-dark .menu--primary > ul > li:hover > a, .header-01.header-dark .menu--primary > ul > li > a:hover, .header-01.header-dark .menu--primary > ul > li > a:focus, .header-01.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-01.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-01.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-01.headroom--not-top .menu--primary > li:hover > a, .page-header.header-01.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-01.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-01.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-01.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-01.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-01.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-01.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-01.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-01.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-01.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-01.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-01.header-dark .header-button:before{background:#ae152d;}.header-01.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-01.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-01.header-dark .header-social-networks a{color:#111;}.header-01.header-dark .header-social-networks a:hover{color:#ae152d;}.header-01.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-01.header-light .header-icon, .header-01.header-light .wpml-ls-item-toggle{color:#fff;}.header-01.header-light .header-icon:hover{color:#fff;}.header-01.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-01.header-light .header-icon .badge, .header-01.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-01.header-light .menu--primary > ul > li > a{color:#fff;}.header-01.header-light .menu--primary > ul > li:hover > a, .header-01.header-light .menu--primary > ul > li > a:hover, .header-01.header-light .menu--primary > ul > li > a:focus, .header-01.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-01.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-01.header-light .header-wrap .menu--secondary > ul > li > a{color:#fff;}.header-01.header-light .header-wrap .menu--secondary > ul > li:hover > a, .header-01.header-light .header-wrap .menu--secondary > ul > li > a:hover, .header-01.header-light .header-wrap .menu--secondary > ul > li > a:focus, .header-01.header-light .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-01.header-light .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#fff;}.header-01.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-01.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-01.header-light .header-button:hover{color:#111;border-color:#fff;}.header-01.header-light .header-button:after{background:#fff;}.header-01.header-light .header-social-networks a{color:#fff;}.header-01.header-light .header-social-networks a:hover{color:#fff;}.header-02 .page-header-inner{border-bottom-width:0px;}.header-02 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-02 .menu--primary > ul > li > a{padding-top:23px;padding-bottom:23px;padding-left:17px;padding-right:17px;}.header-02.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-02.header-dark .header-icon, .header-02.header-dark .wpml-ls-item-toggle{color:#252525;}.header-02.header-dark .header-icon:hover{color:#ae152d;}.header-02.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-02.header-dark .header-icon .badge, .header-02.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-02.header-dark .menu--primary > ul > li > a{color:#333;}.header-02.header-dark .menu--primary > ul > li:hover > a, .header-02.header-dark .menu--primary > ul > li > a:hover, .header-02.header-dark .menu--primary > ul > li > a:focus, .header-02.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-02.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-02.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-02.header-dark .header-button:before{background:#ae152d;}.header-02.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-02.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-02.header-dark .header-social-networks a{color:#111;}.header-02.header-dark .header-social-networks a:hover{color:#ae152d;}.header-02.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-02.header-light .header-icon, .header-02.header-light .wpml-ls-item-toggle{color:#fff;}.header-02.header-light .header-icon:hover{color:#fff;}.header-02.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-02.header-light .header-icon .badge, .header-02.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-02.header-light .menu--primary > ul > li > a{color:#fff;}.header-02.header-light .menu--primary > ul > li:hover > a, .header-02.header-light .menu--primary > ul > li > a:hover, .header-02.header-light .menu--primary > ul > li > a:focus, .header-02.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-02.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-02.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-02.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-02.header-light .header-button:hover{color:#111;border-color:#fff;}.header-02.header-light .header-button:after{background:#fff;}.header-02.header-light .header-social-networks a{color:#fff;}.header-02.header-light .header-social-networks a:hover{color:#fff;}.header-03 .page-header-inner{border-bottom-width:0px;}.header-03 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-03 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-03.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-03.header-dark .header-icon, .header-03.header-dark .wpml-ls-item-toggle{color:#252525;}.header-03.header-dark .header-icon:hover{color:#ae152d;}.header-03.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-03.header-dark .header-icon .badge, .header-03.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-03.header-dark .menu--primary > ul > li > a{color:#333;}.header-03.header-dark .menu--primary > ul > li:hover > a, .header-03.header-dark .menu--primary > ul > li > a:hover, .header-03.header-dark .menu--primary > ul > li > a:focus, .header-03.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-03.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-03.header-dark .header-social-networks a{color:#111;}.header-03.header-dark .header-social-networks a:hover{color:#ae152d;}.header-03.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-03.header-light .header-icon, .header-03.header-light .wpml-ls-item-toggle{color:#fff;}.header-03.header-light .header-icon:hover{color:#fff;}.header-03.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-03.header-light .header-icon .badge, .header-03.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-03.header-light .menu--primary > ul > li > a{color:#fff;}.header-03.header-light .menu--primary > ul > li:hover > a, .header-03.header-light .menu--primary > ul > li > a:hover, .header-03.header-light .menu--primary > ul > li > a:focus, .header-03.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-03.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-03.header-light .header-social-networks a{color:#fff;}.header-03.header-light .header-social-networks a:hover{color:#fff;}.header-04 .page-header-inner{border-bottom-width:0px;}.header-04 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-04 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-04.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-04.header-dark .header-icon, .header-04.header-dark .wpml-ls-item-toggle{color:#252525;}.header-04.header-dark .header-icon:hover{color:#ae152d;}.header-04.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-04.header-dark .header-icon .badge, .header-04.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-04.header-dark .menu--primary > ul > li > a{color:#333;}.header-04.header-dark .menu--primary > ul > li:hover > a, .header-04.header-dark .menu--primary > ul > li > a:hover, .header-04.header-dark .menu--primary > ul > li > a:focus, .header-04.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-04.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-04.header-dark .header-social-networks a{color:#111;}.header-04.header-dark .header-social-networks a:hover{color:#ae152d;}.header-04.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-04.header-light .header-icon, .header-04.header-light .wpml-ls-item-toggle{color:#fff;}.header-04.header-light .header-icon:hover{color:#fff;}.header-04.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-04.header-light .header-icon .badge, .header-04.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-04.header-light .menu--primary > ul > li > a{color:#fff;}.header-04.header-light .menu--primary > ul > li:hover > a, .header-04.header-light .menu--primary > ul > li > a:hover, .header-04.header-light .menu--primary > ul > li > a:focus, .header-04.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-04.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-04.header-light .header-social-networks a{color:#fff;}.header-04.header-light .header-social-networks a:hover{color:#fff;}.header-05 .page-header-inner{border-bottom-width:0px;}.header-05 .menu--primary > ul > li > a{font-size:14px;font-weight:500;line-height:1.6;}.desktop-menu .header-05 .menu--primary > ul > li > a{padding-top:25px;padding-bottom:25px;padding-left:17px;padding-right:17px;}.header-05.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-05.header-dark .header-icon, .header-05.header-dark .wpml-ls-item-toggle{color:#111;}.header-05.header-dark .header-icon:hover{color:#ae152d;}.header-05.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-05.header-dark .header-icon .badge, .header-05.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-05.header-dark .menu--primary > ul > li > a{color:#333;}.header-05.header-dark .menu--primary > ul > li:hover > a, .header-05.header-dark .menu--primary > ul > li > a:hover, .header-05.header-dark .menu--primary > ul > li > a:focus, .header-05.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-05.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-05.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-05.header-dark .header-button:before{background:#ae152d;}.header-05.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-05.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-05.header-dark .header-social-networks a{color:#111;}.header-05.header-dark .header-social-networks a:hover{color:#ae152d;}.header-05.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-05.header-light .header-icon, .header-05.header-light .wpml-ls-item-toggle{color:#fff;}.header-05.header-light .header-icon:hover{color:#fff;}.header-05.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-05.header-light .header-icon .badge, .header-05.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-05.header-light .menu--primary > ul > li > a{color:#fff;}.header-05.header-light .menu--primary > ul > li:hover > a, .header-05.header-light .menu--primary > ul > li > a:hover, .header-05.header-light .menu--primary > ul > li > a:focus, .header-05.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-05.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-05.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-05.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-05.header-light .header-button:hover{color:#111;border-color:#fff;}.header-05.header-light .header-button:after{background:#fff;}.header-05.header-light .header-social-networks a{color:#fff;}.header-05.header-light .header-social-networks a:hover{color:#fff;}.header-06 .page-header-inner{border-bottom-width:0px;}.header-06 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-06 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-06 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-06 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:8px;padding-right:8px;}.header-06.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-06.header-dark .header-icon, .header-06.header-dark .wpml-ls-item-toggle{color:#111;}.header-06.header-dark .header-icon:hover{color:#ae152d;}.header-06.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-06.header-dark .header-icon .badge, .header-06.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-06.header-dark .header-bottom, .header-06.header-light.headroom--not-top .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-06.header-dark .menu--primary > ul > li > a{color:#fff;}.header-06.header-dark .menu--primary > ul > li:hover > a, .header-06.header-dark .menu--primary > ul > li > a:hover, .header-06.header-dark .menu--primary > ul > li > a:focus, .header-06.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-06.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-06.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-06.headroom--not-top .menu--primary > li:hover > a, .page-header.header-06.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-06.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-06.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-06.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-06.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-06.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-06.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-06.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-06.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-06.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-06.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-06.header-dark .header-button:before{background:#ae152d;}.header-06.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-06.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-06.header-dark .header-social-networks a{color:#111;}.header-06.header-dark .header-social-networks a:hover{color:#ae152d;}.header-06.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-06.header-light .header-icon, .header-06.header-light .wpml-ls-item-toggle{color:#fff;}.header-06.header-light .header-icon:hover{color:#fff;}.header-06.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-06.header-light .header-icon .badge, .header-06.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-06.header-light .menu--primary > ul > li > a{color:#fff;}.header-06.header-light .menu--primary > ul > li:hover > a, .header-06.header-light .menu--primary > ul > li > a:hover, .header-06.header-light .menu--primary > ul > li > a:focus, .header-06.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-06.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-06.header-light .header-wrap .menu--secondary > ul > li > a{color:#fff;}.header-06.header-light .header-wrap .menu--secondary > ul > li:hover > a, .header-06.header-light .header-wrap .menu--secondary > ul > li > a:hover, .header-06.header-light .header-wrap .menu--secondary > ul > li > a:focus, .header-06.header-light .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-06.header-light .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#fff;}.header-06.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-06.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-06.header-light .header-button:hover{color:#111;border-color:#fff;}.header-06.header-light .header-button:after{background:#fff;}.header-06.header-light .header-social-networks a{color:#fff;}.header-06.header-light .header-social-networks a:hover{color:#fff;}.header-07 .page-header-inner{border-bottom-width:0px;}.header-07 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-07 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-07 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-07 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:8px;padding-right:8px;}.header-07.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-07.header-dark .header-icon, .header-07.header-dark .wpml-ls-item-toggle{color:#111;}.header-07.header-dark .header-icon:hover{color:#ae152d;}.header-07.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-07.header-dark .header-icon .badge, .header-07.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-07.header-dark .header-bottom, .header-07.header-light.headroom--not-top .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-07.header-dark .menu--primary > ul > li > a{color:#fff;}.header-07.header-dark .menu--primary > ul > li:hover > a, .header-07.header-dark .menu--primary > ul > li > a:hover, .header-07.header-dark .menu--primary > ul > li > a:focus, .header-07.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-07.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-07.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-07.headroom--not-top .menu--primary > li:hover > a, .page-header.header-07.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-07.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-07.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-07.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-07.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-07.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-07.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-07.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-07.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-07.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-07.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-07.header-dark .header-button:before{background:#ae152d;}.header-07.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-07.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-07.header-dark .header-social-networks a{color:#111;}.header-07.header-dark .header-social-networks a:hover{color:#ae152d;}.header-07.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-07.header-light .header-icon, .header-07.header-light .wpml-ls-item-toggle{color:#fff;}.header-07.header-light .header-icon:hover{color:#fff;}.header-07.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-07.header-light .header-icon .badge, .header-07.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-07.header-light .menu--primary > ul > li > a{color:#fff;}.header-07.header-light .menu--primary > ul > li:hover > a, .header-07.header-light .menu--primary > ul > li > a:hover, .header-07.header-light .menu--primary > ul > li > a:focus, .header-07.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-07.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-07.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-07.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-07.header-light .header-button:hover{color:#111;border-color:#fff;}.header-07.header-light .header-button:after{background:#fff;}.header-07.header-light .header-social-networks a{color:#fff;}.header-07.header-light .header-social-networks a:hover{color:#fff;}.header-08 .page-header-inner{border-bottom-width:0px;}.header-08 .menu--primary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-08 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-08.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-08.header-dark .header-icon, .header-08.header-dark .wpml-ls-item-toggle{color:#252525;}.header-08.header-dark .header-icon:hover{color:#ae152d;}.header-08.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-08.header-dark .header-icon .badge, .header-08.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-08.header-dark .menu--primary > ul > li > a{color:#333;}.header-08.header-dark .menu--primary > ul > li:hover > a, .header-08.header-dark .menu--primary > ul > li > a:hover, .header-08.header-dark .menu--primary > ul > li > a:focus, .header-08.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-08.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-08.header-dark .header-social-networks a{color:#111;}.header-08.header-dark .header-social-networks a:hover{color:#ae152d;}.header-08.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-08.header-light .header-icon, .header-08.header-light .wpml-ls-item-toggle{color:#fff;}.header-08.header-light .header-icon:hover{color:#fff;}.header-08.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-08.header-light .header-icon .badge, .header-08.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-08.header-light .menu--primary > ul > li > a{color:#fff;}.header-08.header-light .menu--primary > ul > li:hover > a, .header-08.header-light .menu--primary > ul > li > a:hover, .header-08.header-light .menu--primary > ul > li > a:focus, .header-08.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-08.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-08.header-light .header-social-networks a{color:#fff;}.header-08.header-light .header-social-networks a:hover{color:#fff;}.page-navigation .children > li > a, .page-navigation .children > li > a .menu-item-title{font-weight:500;letter-spacing:0em;line-height:1.39;text-transform:none;}.page-navigation .children > li > a{font-size:13px;color:#7e7e7e;}.page-navigation .children,.primary-menu-sub-visual{background-color:#fff;-webkit-box-shadow:0 0 30px rgba(0, 0, 0, 0.12);-moz-box-shadow:0 0 30px rgba(0, 0, 0, 0.12);box-shadow:0 0 30px rgba(0, 0, 0, 0.12);}.page-navigation .children > li:hover > a, .page-navigation .children > li.current-menu-item > a, .page-navigation .children > li.current-menu-ancestor > a{color:#ae152d;}.popup-canvas-menu{background:#f9f9fb;background-color:#f9f9fb;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-close-main-menu:before, .page-close-main-menu:after{background-color:#111;}.popup-canvas-menu .menu__container > li > a{font-weight:500;line-height:1.5;color:#111;}.popup-canvas-menu .menu__container > li > a:hover, .popup-canvas-menu .menu__container > li > a:focus{color:#ae152d;}.popup-canvas-menu .menu__container .children a{color:#777;}.popup-canvas-menu .menu__container .children a:hover{color:#ae152d;}.page-mobile-menu-header{background:#fff;}.page-close-mobile-menu{color:#111;}.page-close-mobile-menu:hover{color:#111;}.page-mobile-main-menu > .inner:before{background-color:rgba(0, 0, 0, 0.8);}.page-mobile-main-menu .menu__container > li > a{padding-top:19px;padding-bottom:19px;padding-left:0;padding-right:0;font-weight:500;line-height:1.5;font-size:14px;color:#fff;}.page-mobile-main-menu .menu__container > li > a:hover, .page-mobile-main-menu .menu__container > li.opened > a{color:#fff;}.page-mobile-main-menu .menu__container > li + li > a, .page-mobile-main-menu .menu__container > li.opened > a{border-color:rgba(255, 255, 255, 0.15);}.page-mobile-main-menu .children > li > a,.page-mobile-main-menu .simple-menu > li > a{padding-top:10px;padding-bottom:10px;padding-left:0;padding-right:0;}.page-mobile-main-menu .simple-menu > li > a, .page-mobile-main-menu .children > li > a{font-weight:500;line-height:1.5;}.page-mobile-main-menu .children > li > a{font-size:13px;}.page-mobile-main-menu .children > li > a, .page-mobile-main-menu .unicamp-list .link{color:rgba(255, 255, 255, 0.7);}.page-mobile-main-menu .children a:hover, .page-mobile-main-menu .children .opened > a, .page-mobile-main-menu .current-menu-item > a{color:#fff;}.page-mobile-main-menu .toggle-sub-menu{color:#fff;background:rgba(255, 255, 255, 0);}.page-mobile-main-menu .toggle-sub-menu:hover{color:#fff;background:rgba(255, 255, 255, 0.2);}.page-title-bar-01 .page-title-bar-bg{background:#f8f8f8;background-color:#f8f8f8;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-01 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:17px;padding-bottom:61px;}.page-title-bar-01{margin-bottom:60px;}.page-title-bar-01 .heading{font-size:52px;font-weight:700;line-height:1.24;color:#111;}.page-title-bar-01 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#333;}.page-title-bar-01 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-01 .insight_core_breadcrumb a{color:#ababab;}.page-title-bar-01 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-01 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-02 .page-title-bar-bg{background-image:url("../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-02-bg.jpg");background-color:#111;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-02 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:17px;padding-bottom:61px;}.page-title-bar-02{margin-bottom:60px;}.page-title-bar-02 .heading{font-size:52px;font-weight:700;line-height:1.24;color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-02 .insight_core_breadcrumb a{color:#fff;}.page-title-bar-02 .insight_core_breadcrumb a:hover{color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-03 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-03 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-03{margin-bottom:52px;}.page-title-bar-03 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-03 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-03 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-03 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-03 .insight_core_breadcrumb li + li:before{color:#696969;}.page-title-bar-04 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-04 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-04 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-04 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-04 .insight_core_breadcrumb a{color:#ababab;}.page-title-bar-04 .insight_core_breadcrumb a:hover{color:#ae152d;}.page-title-bar-04 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-05 .page-title-bar-bg{background:#F5F7FD;background-color:#F5F7FD;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-05 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-05{margin-bottom:74px;}.page-title-bar-05 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-05 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-05 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-05 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-05 .insight_core_breadcrumb li + li:before{color:#696969;}.page-title-bar-07 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-07 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-07 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#fff;}.page-title-bar-07 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-07 .insight_core_breadcrumb a{color:#fff;}.page-title-bar-07 .insight_core_breadcrumb a:hover{color:#fff;}.page-title-bar-07 .insight_core_breadcrumb li + li:before{color:#fff;}.page-title-bar-08 .page-title-bar-bg{background-image:url("../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-08-bg.png");background-color:#f8f8f8;background-repeat:no-repeat;background-position:bottom right;background-attachment:scroll;-webkit-background-size:auto;-moz-background-size:auto;-ms-background-size:auto;-o-background-size:auto;background-size:auto;}.page-title-bar-08 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title-bar-08{margin-bottom:57px;}.page-title-bar-08 .heading{font-size:40px;font-weight:500;line-height:1.4;}.page-title-bar-08 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-08 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-08 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-08 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-08 .insight_core_breadcrumb li + li:before{color:#696969;}.page-loading{background-color:#fff;}.page-loading .sk-wrap{color:#ae152d;}.error404{background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.branding-logo-wrap img, .error404--header .branding-logo-wrap img{width:224px;}.branding-logo-wrap img{padding-top:15px;padding-right:0px;padding-bottom:15px;padding-left:0px;}.header-sticky-both .headroom.headroom--not-top .branding img, .header-sticky-up .headroom.headroom--not-top.headroom--pinned .branding img, .header-sticky-down .headroom.headroom--not-top.headroom--unpinned .branding img{width:165px;}.headroom--not-top .branding-logo-wrap .sticky-logo{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}.page-mobile-popup-logo img{width:165px;}.archive-event .page-title-bar-02 .page-title-bar-bg{background-image:url("../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-bg-event.jpg");background-color:#111;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-search-popup{background:#fff;}.page-search-popup .search-form, .page-search-popup .search-field:focus{color:#111;}.page-search-popup .search-field:-webkit-autofill{-webkit-text-fill-color:#111!important;}body, .gmap-marker-wrap{font-family:Gordita;font-size:15px;font-weight:400;letter-spacing:0em;line-height:1.87;}h1,h2,h3,h4,h5,h6,.heading,.heading-typography{font-family:Butler;font-weight:700;letter-spacing:0em;line-height:1.3;}h1{font-size:38px;}h2{font-size:34px;}h3{font-size:30px;}h4{font-size:26px;}h5{font-size:22px;}h6{font-size:18px;}b, strong{font-weight:700;}button, input[type="button"], input[type="reset"], input[type="submit"], .wp-block-button__link, .rev-btn, .tm-button, .button, .wc-forward, .elementor-button,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn,.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn{font-family:inherit;font-size:14px;font-weight:700;letter-spacing:0em;text-transform:none;}@media (max-width: 1199px){.page-title-bar-01 .page-title-bar-inner .heading{font-size:44px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:44px;}.page-title-bar-08 .page-title-bar-inner{padding-top:60px;padding-bottom:50px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:34px;}}@media (max-width: 991px){.page-title-bar-01 .page-title-bar-inner{padding-bottom:50px;}.page-title-bar-01 .page-title-bar-inner .heading{font-size:36px;}.page-title-bar-02 .page-title-bar-inner{padding-bottom:50px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:36px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:28px;}}@media (max-width: 767px){.page-title-bar-01 .page-title-bar-inner .heading{font-size:28px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:28px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:24px;}.branding-logo-wrap img, .error404--header .branding-logo-wrap img{width:165px;}}</style></head>
+			id="kirki-inline-styles">body{color:#696969;background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}a{color:#696969;}a:hover, a:focus{color:#ae152d;}h1,h2,h3,h4,h5,h6,caption,th,blockquote, .heading, .heading-color{color:#111;}button, input[type="button"], input[type="reset"], input[type="submit"], .wp-block-button__link, .button, .wc-forward, .button.button-alt:hover, .elementor-button,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn,.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn, .tutor-button.tutor-success{color:#fff;border-color:#ae152d;background-color:#ae152d;}.wp-block-button.is-style-outline{color:#ae152d;}button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .wp-block-button__link:hover, .button:hover, .button:focus, .button-alt, .wc-forward:hover, .wc-forward:focus, .elementor-button:hover,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn:hover,.single_add_to_cart_button:hover, a.tutor-button:hover, .tutor-button:hover, a.tutor-btn:hover, .tutor-btn:hover, .tutor-button.tutor-success:hover{color:#fff;border-color:#111;background-color:#111;}.wp-block-button.is-style-outline .wp-block-button__link:hover{color:#111;}.tm-button.style-flat{color:#fff;border-color:#ae152d;}.tm-button.style-flat:before{background-color:#ae152d;}.tm-button.style-flat:hover{color:#fff;border-color:#111;}.tm-button.style-flat:after{background-color:#111;}.tm-button.style-border, .tm-button.style-thick-border{color:#ae152d;border-color:#ae152d;}.tm-button.style-border:before, .tm-button.style-thick-border:before{background-color:rgba(0, 0, 0, 0);}.tm-button.style-border:hover, .tm-button.style-thick-border:hover{color:#fff;border-color:#ae152d;}.tm-button.style-border:after, .tm-button.style-thick-border:after{background-color:#ae152d;}.top-bar-01{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:15px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-01 a{font-size:15px;font-weight:500;line-height:26px;color:#fff;}.top-bar-01 .top-bar-user-links a + a:before, .top-bar-01 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-01 a:hover, .top-bar-01 a:focus{color:#9D2235;}.top-bar-01 .info-list .info-icon{color:#9D2235;}.top-bar-01 .info-list .info-link:hover .info-icon{color:#9D2235;}.top-bar-02{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#10386B;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-02 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-02 .top-bar-user-links a + a:before, .top-bar-02 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-02 a:hover, .top-bar-02 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-02 .info-list .info-icon, .top-bar-02 .top-bar-icon{color:#fff;}.top-bar-02 .info-list .info-link:hover .info-icon, .top-bar-02 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.top-bar-03{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-03 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-03 .top-bar-user-links a + a:before, .top-bar-03 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-03 a:hover, .top-bar-03 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-03 .info-list .info-icon, .top-bar-03 .top-bar-icon{color:#fff;}.top-bar-03 .info-list .info-link:hover .info-icon, .top-bar-03 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.top-bar-04{padding-top:6px;padding-bottom:6px;border-bottom-width:0px;font-size:13px;font-weight:400;line-height:26px;background-color:#9D2235;border-bottom-color:rgba(0, 0, 0, 0);color:#fff;}.top-bar-04 a{font-size:13px;font-weight:500;line-height:26px;color:#fff;}.top-bar-04 .top-bar-user-links a + a:before, .top-bar-04 .top-bar-info .info-item + .info-item:before{background:rgba(255, 255, 255, 0.4);}.top-bar-04 a:hover, .top-bar-04 a:focus{color:rgba(255, 255, 255, 0.6);}.top-bar-04 .info-list .info-icon, .top-bar-04 .top-bar-icon{color:#fff;}.top-bar-04 .info-list .info-link:hover .info-icon, .top-bar-04 .top-bar-icon:hover{color:rgba(255, 255, 255, 0.6);}.headroom--not-top .page-header-inner .header-wrap{min-height:80px;}#page-header.headroom--not-top .page-header-inner{background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-header.headroom--not-top .header-icon, .page-header.headroom--not-top .wpml-ls-item-toggle{color:#111 !important;}.page-header.headroom--not-top .header-icon:hover{color:#111 !important;}.page-header.headroom--not-top .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#111!important;}.page-header.headroom--not-top .header-social-networks a{color:#111 !important;}.page-header.headroom--not-top .header-social-networks a:hover{color:#111 !important;}.page-header.headroom--not-top .menu--primary > ul > li > a{color:#111 !important;}.page-header.headroom--not-top .menu--primary > li:hover > a, .page-header.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#ae152d !important;}.header-sticky-button.tm-button{color:#111;border-color:#eee;}.header-sticky-button.tm-button:before{background:rgba(17, 17, 17, 0);}.header-sticky-button.tm-button:hover{color:#fff;border-color:#111;}.header-sticky-button.tm-button:after{background:#111;}#page-header.headroom--not-top .search-field{color:#696969;border-color:#f5f5f5;background:#f5f5f5;}#page-header.headroom--not-top .search-field:focus{color:#333;border-color:#ae152d;background:#fff;}.header-more-tools-opened .header-right-inner{background:#ffffff;background-color:#ffffff;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;border-width:1px;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 0 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 0 26px rgba(0, 0, 0, 0.05);box-shadow:0 0 26px rgba(0, 0, 0, 0.05);}.header-more-tools-opened .header-right-inner .header-social-networks a{color:#333!important;}.header-more-tools-opened .header-right-inner .header-social-networks a:hover{color:#ae152d!important;}.header-01 .page-header-inner{border-bottom-width:0px;}.header-01 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-01 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-01 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-01 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:12px;padding-right:12px;}.header-01.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-01.header-dark .header-icon, .header-01.header-dark .wpml-ls-item-toggle{color:#111;}.header-01.header-dark .header-icon:hover{color:#ae152d;}.header-01.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-01.header-dark .header-icon .badge, .header-01.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-01.header-dark .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-01.header-dark .menu--primary > ul > li > a{color:#fff;}.header-01.header-dark .menu--primary > ul > li:hover > a, .header-01.header-dark .menu--primary > ul > li > a:hover, .header-01.header-dark .menu--primary > ul > li > a:focus, .header-01.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-01.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-01.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-01.headroom--not-top .menu--primary > li:hover > a, .page-header.header-01.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-01.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-01.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-01.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-01.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-01.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-01.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-01.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-01.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-01.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-01.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-01.header-dark .header-button:before{background:#ae152d;}.header-01.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-01.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-01.header-dark .header-social-networks a{color:#111;}.header-01.header-dark .header-social-networks a:hover{color:#ae152d;}.header-01.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-01.header-light .header-icon, .header-01.header-light .wpml-ls-item-toggle{color:#fff;}.header-01.header-light .header-icon:hover{color:#fff;}.header-01.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-01.header-light .header-icon .badge, .header-01.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-01.header-light .menu--primary > ul > li > a{color:#fff;}.header-01.header-light .menu--primary > ul > li:hover > a, .header-01.header-light .menu--primary > ul > li > a:hover, .header-01.header-light .menu--primary > ul > li > a:focus, .header-01.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-01.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-01.header-light .header-wrap .menu--secondary > ul > li > a{color:#fff;}.header-01.header-light .header-wrap .menu--secondary > ul > li:hover > a, .header-01.header-light .header-wrap .menu--secondary > ul > li > a:hover, .header-01.header-light .header-wrap .menu--secondary > ul > li > a:focus, .header-01.header-light .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-01.header-light .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#fff;}.header-01.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-01.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-01.header-light .header-button:hover{color:#111;border-color:#fff;}.header-01.header-light .header-button:after{background:#fff;}.header-01.header-light .header-social-networks a{color:#fff;}.header-01.header-light .header-social-networks a:hover{color:#fff;}.header-02 .page-header-inner{border-bottom-width:0px;}.header-02 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-02 .menu--primary > ul > li > a{padding-top:23px;padding-bottom:23px;padding-left:17px;padding-right:17px;}.header-02.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-02.header-dark .header-icon, .header-02.header-dark .wpml-ls-item-toggle{color:#252525;}.header-02.header-dark .header-icon:hover{color:#ae152d;}.header-02.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-02.header-dark .header-icon .badge, .header-02.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-02.header-dark .menu--primary > ul > li > a{color:#333;}.header-02.header-dark .menu--primary > ul > li:hover > a, .header-02.header-dark .menu--primary > ul > li > a:hover, .header-02.header-dark .menu--primary > ul > li > a:focus, .header-02.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-02.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-02.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-02.header-dark .header-button:before{background:#ae152d;}.header-02.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-02.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-02.header-dark .header-social-networks a{color:#111;}.header-02.header-dark .header-social-networks a:hover{color:#ae152d;}.header-02.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-02.header-light .header-icon, .header-02.header-light .wpml-ls-item-toggle{color:#fff;}.header-02.header-light .header-icon:hover{color:#fff;}.header-02.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-02.header-light .header-icon .badge, .header-02.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-02.header-light .menu--primary > ul > li > a{color:#fff;}.header-02.header-light .menu--primary > ul > li:hover > a, .header-02.header-light .menu--primary > ul > li > a:hover, .header-02.header-light .menu--primary > ul > li > a:focus, .header-02.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-02.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-02.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-02.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-02.header-light .header-button:hover{color:#111;border-color:#fff;}.header-02.header-light .header-button:after{background:#fff;}.header-02.header-light .header-social-networks a{color:#fff;}.header-02.header-light .header-social-networks a:hover{color:#fff;}.header-03 .page-header-inner{border-bottom-width:0px;}.header-03 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-03 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-03.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-03.header-dark .header-icon, .header-03.header-dark .wpml-ls-item-toggle{color:#252525;}.header-03.header-dark .header-icon:hover{color:#ae152d;}.header-03.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-03.header-dark .header-icon .badge, .header-03.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-03.header-dark .menu--primary > ul > li > a{color:#333;}.header-03.header-dark .menu--primary > ul > li:hover > a, .header-03.header-dark .menu--primary > ul > li > a:hover, .header-03.header-dark .menu--primary > ul > li > a:focus, .header-03.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-03.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-03.header-dark .header-social-networks a{color:#111;}.header-03.header-dark .header-social-networks a:hover{color:#ae152d;}.header-03.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-03.header-light .header-icon, .header-03.header-light .wpml-ls-item-toggle{color:#fff;}.header-03.header-light .header-icon:hover{color:#fff;}.header-03.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-03.header-light .header-icon .badge, .header-03.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-03.header-light .menu--primary > ul > li > a{color:#fff;}.header-03.header-light .menu--primary > ul > li:hover > a, .header-03.header-light .menu--primary > ul > li > a:hover, .header-03.header-light .menu--primary > ul > li > a:focus, .header-03.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-03.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-03.header-light .header-social-networks a{color:#fff;}.header-03.header-light .header-social-networks a:hover{color:#fff;}.header-04 .page-header-inner{border-bottom-width:0px;}.header-04 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-04 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-04.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-04.header-dark .header-icon, .header-04.header-dark .wpml-ls-item-toggle{color:#252525;}.header-04.header-dark .header-icon:hover{color:#ae152d;}.header-04.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-04.header-dark .header-icon .badge, .header-04.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-04.header-dark .menu--primary > ul > li > a{color:#333;}.header-04.header-dark .menu--primary > ul > li:hover > a, .header-04.header-dark .menu--primary > ul > li > a:hover, .header-04.header-dark .menu--primary > ul > li > a:focus, .header-04.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-04.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-04.header-dark .header-social-networks a{color:#111;}.header-04.header-dark .header-social-networks a:hover{color:#ae152d;}.header-04.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-04.header-light .header-icon, .header-04.header-light .wpml-ls-item-toggle{color:#fff;}.header-04.header-light .header-icon:hover{color:#fff;}.header-04.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-04.header-light .header-icon .badge, .header-04.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-04.header-light .menu--primary > ul > li > a{color:#fff;}.header-04.header-light .menu--primary > ul > li:hover > a, .header-04.header-light .menu--primary > ul > li > a:hover, .header-04.header-light .menu--primary > ul > li > a:focus, .header-04.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-04.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-04.header-light .header-social-networks a{color:#fff;}.header-04.header-light .header-social-networks a:hover{color:#fff;}.header-05 .page-header-inner{border-bottom-width:0px;}.header-05 .menu--primary > ul > li > a{font-size:14px;font-weight:500;line-height:1.6;}.desktop-menu .header-05 .menu--primary > ul > li > a{padding-top:25px;padding-bottom:25px;padding-left:17px;padding-right:17px;}.header-05.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-05.header-dark .header-icon, .header-05.header-dark .wpml-ls-item-toggle{color:#111;}.header-05.header-dark .header-icon:hover{color:#ae152d;}.header-05.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-05.header-dark .header-icon .badge, .header-05.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-05.header-dark .menu--primary > ul > li > a{color:#333;}.header-05.header-dark .menu--primary > ul > li:hover > a, .header-05.header-dark .menu--primary > ul > li > a:hover, .header-05.header-dark .menu--primary > ul > li > a:focus, .header-05.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-05.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-05.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-05.header-dark .header-button:before{background:#ae152d;}.header-05.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-05.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-05.header-dark .header-social-networks a{color:#111;}.header-05.header-dark .header-social-networks a:hover{color:#ae152d;}.header-05.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-05.header-light .header-icon, .header-05.header-light .wpml-ls-item-toggle{color:#fff;}.header-05.header-light .header-icon:hover{color:#fff;}.header-05.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-05.header-light .header-icon .badge, .header-05.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-05.header-light .menu--primary > ul > li > a{color:#fff;}.header-05.header-light .menu--primary > ul > li:hover > a, .header-05.header-light .menu--primary > ul > li > a:hover, .header-05.header-light .menu--primary > ul > li > a:focus, .header-05.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-05.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-05.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-05.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-05.header-light .header-button:hover{color:#111;border-color:#fff;}.header-05.header-light .header-button:after{background:#fff;}.header-05.header-light .header-social-networks a{color:#fff;}.header-05.header-light .header-social-networks a:hover{color:#fff;}.header-06 .page-header-inner{border-bottom-width:0px;}.header-06 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-06 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-06 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-06 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:8px;padding-right:8px;}.header-06.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-06.header-dark .header-icon, .header-06.header-dark .wpml-ls-item-toggle{color:#111;}.header-06.header-dark .header-icon:hover{color:#ae152d;}.header-06.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-06.header-dark .header-icon .badge, .header-06.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-06.header-dark .header-bottom, .header-06.header-light.headroom--not-top .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-06.header-dark .menu--primary > ul > li > a{color:#fff;}.header-06.header-dark .menu--primary > ul > li:hover > a, .header-06.header-dark .menu--primary > ul > li > a:hover, .header-06.header-dark .menu--primary > ul > li > a:focus, .header-06.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-06.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-06.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-06.headroom--not-top .menu--primary > li:hover > a, .page-header.header-06.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-06.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-06.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-06.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-06.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-06.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-06.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-06.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-06.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-06.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-06.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-06.header-dark .header-button:before{background:#ae152d;}.header-06.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-06.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-06.header-dark .header-social-networks a{color:#111;}.header-06.header-dark .header-social-networks a:hover{color:#ae152d;}.header-06.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-06.header-light .header-icon, .header-06.header-light .wpml-ls-item-toggle{color:#fff;}.header-06.header-light .header-icon:hover{color:#fff;}.header-06.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-06.header-light .header-icon .badge, .header-06.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-06.header-light .menu--primary > ul > li > a{color:#fff;}.header-06.header-light .menu--primary > ul > li:hover > a, .header-06.header-light .menu--primary > ul > li > a:hover, .header-06.header-light .menu--primary > ul > li > a:focus, .header-06.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-06.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-06.header-light .header-wrap .menu--secondary > ul > li > a{color:#fff;}.header-06.header-light .header-wrap .menu--secondary > ul > li:hover > a, .header-06.header-light .header-wrap .menu--secondary > ul > li > a:hover, .header-06.header-light .header-wrap .menu--secondary > ul > li > a:focus, .header-06.header-light .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-06.header-light .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#fff;}.header-06.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-06.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-06.header-light .header-button:hover{color:#111;border-color:#fff;}.header-06.header-light .header-button:after{background:#fff;}.header-06.header-light .header-social-networks a{color:#fff;}.header-06.header-light .header-social-networks a:hover{color:#fff;}.header-07 .page-header-inner{border-bottom-width:0px;}.header-07 .menu--primary > ul > li > a{font-size:15px;font-weight:700;line-height:26px;}.desktop-menu .header-07 .menu--primary > ul > li > a{padding-top:11px;padding-bottom:11px;padding-left:24px;padding-right:24px;}.header-07 .header-wrap .menu--secondary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-07 .header-wrap .menu--secondary > ul > li > a{padding-top:15px;padding-bottom:15px;padding-left:8px;padding-right:8px;}.header-07.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-07.header-dark .header-icon, .header-07.header-dark .wpml-ls-item-toggle{color:#111;}.header-07.header-dark .header-icon:hover{color:#ae152d;}.header-07.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-07.header-dark .header-icon .badge, .header-07.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-07.header-dark .header-bottom, .header-07.header-light.headroom--not-top .header-bottom{background:#9d2235;background-color:#9d2235;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.header-07.header-dark .menu--primary > ul > li > a{color:#fff;}.header-07.header-dark .menu--primary > ul > li:hover > a, .header-07.header-dark .menu--primary > ul > li > a:hover, .header-07.header-dark .menu--primary > ul > li > a:focus, .header-07.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-07.header-dark .menu--primary > ul > .current-menu-item > a{color:#fff;}.page-header.header-07.headroom--not-top .menu--primary > ul > li > a{color:#fff!important;}.page-header.header-07.headroom--not-top .menu--primary > li:hover > a, .page-header.header-07.headroom--not-top .menu--primary > ul > li > a:hover, .page-header.header-07.headroom--not-top .menu--primary > ul > li > a:focus, .page-header.header-07.headroom--not-top .menu--primary > ul > .current-menu-ancestor > a, .page-header.header-07.headroom--not-top .menu--primary > ul > .current-menu-item > a{color:#fff!important;}.header-07.header-dark .header-wrap .menu--secondary > ul > li > a{color:#696969;}.header-07.header-dark .header-wrap .menu--secondary > ul > li:hover > a, .header-07.header-dark .header-wrap .menu--secondary > ul > li > a:hover, .header-07.header-dark .header-wrap .menu--secondary > ul > li > a:focus, .header-07.header-dark .header-wrap .menu--secondary > ul > .current-menu-ancestor > a, .header-07.header-dark .header-wrap .menu--secondary > ul > .current-menu-item > a{color:#ae152d;}.header-07.header-dark .header-button{color:#fff;border-color:#ae152d;}.header-07.header-dark .header-button:before{background:#ae152d;}.header-07.header-dark .header-button:hover{color:#ae152d;border-color:#ae152d;}.header-07.header-dark .header-button:after{background:rgba(0, 0, 0, 0);}.header-07.header-dark .header-social-networks a{color:#111;}.header-07.header-dark .header-social-networks a:hover{color:#ae152d;}.header-07.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-07.header-light .header-icon, .header-07.header-light .wpml-ls-item-toggle{color:#fff;}.header-07.header-light .header-icon:hover{color:#fff;}.header-07.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-07.header-light .header-icon .badge, .header-07.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-07.header-light .menu--primary > ul > li > a{color:#fff;}.header-07.header-light .menu--primary > ul > li:hover > a, .header-07.header-light .menu--primary > ul > li > a:hover, .header-07.header-light .menu--primary > ul > li > a:focus, .header-07.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-07.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-07.header-light .header-button{color:#fff;border-color:rgba(255, 255, 255, 0.3);}.header-07.header-light .header-button:before{background:rgba(255, 255, 255, 0);}.header-07.header-light .header-button:hover{color:#111;border-color:#fff;}.header-07.header-light .header-button:after{background:#fff;}.header-07.header-light .header-social-networks a{color:#fff;}.header-07.header-light .header-social-networks a:hover{color:#fff;}.header-08 .page-header-inner{border-bottom-width:0px;}.header-08 .menu--primary > ul > li > a{font-size:13px;font-weight:500;letter-spacing:1px;line-height:26px;text-transform:uppercase;}.desktop-menu .header-08 .menu--primary{--gap-top:11px;--gap-bottom:6px;--gap-left:17px;--gap-right:17px;}.header-08.header-dark .page-header-inner{background:#fff;background-color:#fff;background-repeat:no-repeat;background-position:center center;background-attachment:fixed;border-color:#eee;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;-webkit-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);-moz-box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);box-shadow:0 10px 26px rgba(0, 0, 0, 0.05);}.header-08.header-dark .header-icon, .header-08.header-dark .wpml-ls-item-toggle{color:#252525;}.header-08.header-dark .header-icon:hover{color:#ae152d;}.header-08.header-dark .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#ae152d;}.header-08.header-dark .header-icon .badge, .header-08.header-dark .mini-cart .mini-cart-icon:after{color:#fff;background-color:#ae152d;}.header-08.header-dark .menu--primary > ul > li > a{color:#333;}.header-08.header-dark .menu--primary > ul > li:hover > a, .header-08.header-dark .menu--primary > ul > li > a:hover, .header-08.header-dark .menu--primary > ul > li > a:focus, .header-08.header-dark .menu--primary > ul > .current-menu-ancestor > a, .header-08.header-dark .menu--primary > ul > .current-menu-item > a{color:#ae152d;}.header-08.header-dark .header-social-networks a{color:#111;}.header-08.header-dark .header-social-networks a:hover{color:#ae152d;}.header-08.header-light .page-header-inner{border-color:rgba(255, 255, 255, 0.2);}.header-08.header-light .header-icon, .header-08.header-light .wpml-ls-item-toggle{color:#fff;}.header-08.header-light .header-icon:hover{color:#fff;}.header-08.header-light .wpml-ls-slot-shortcode_actions:hover > .js-wpml-ls-item-toggle{color:#fff;}.header-08.header-light .header-icon .badge, .header-08.header-light .mini-cart .mini-cart-icon:after{color:#fff;background-color:#9D2235;}.header-08.header-light .menu--primary > ul > li > a{color:#fff;}.header-08.header-light .menu--primary > ul > li:hover > a, .header-08.header-light .menu--primary > ul > li > a:hover, .header-08.header-light .menu--primary > ul > li > a:focus, .header-08.header-light .menu--primary > ul > .current-menu-ancestor > a, .header-08.header-light .menu--primary > ul > .current-menu-item > a{color:#fff;}.header-08.header-light .header-social-networks a{color:#fff;}.header-08.header-light .header-social-networks a:hover{color:#fff;}.page-navigation .children > li > a, .page-navigation .children > li > a .menu-item-title{font-weight:500;letter-spacing:0em;line-height:1.39;text-transform:none;}.page-navigation .children > li > a{font-size:13px;color:#7e7e7e;}.page-navigation .children,.primary-menu-sub-visual{background-color:#fff;-webkit-box-shadow:0 0 30px rgba(0, 0, 0, 0.12);-moz-box-shadow:0 0 30px rgba(0, 0, 0, 0.12);box-shadow:0 0 30px rgba(0, 0, 0, 0.12);}.page-navigation .children > li:hover > a, .page-navigation .children > li.current-menu-item > a, .page-navigation .children > li.current-menu-ancestor > a{color:#ae152d;}.popup-canvas-menu{background:#f9f9fb;background-color:#f9f9fb;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-close-main-menu:before, .page-close-main-menu:after{background-color:#111;}.popup-canvas-menu .menu__container > li > a{font-weight:500;line-height:1.5;color:#111;}.popup-canvas-menu .menu__container > li > a:hover, .popup-canvas-menu .menu__container > li > a:focus{color:#ae152d;}.popup-canvas-menu .menu__container .children a{color:#777;}.popup-canvas-menu .menu__container .children a:hover{color:#ae152d;}.page-mobile-menu-header{background:#fff;}.page-close-mobile-menu{color:#111;}.page-close-mobile-menu:hover{color:#111;}.page-mobile-main-menu > .inner:before{background-color:rgba(0, 0, 0, 0.8);}.page-mobile-main-menu .menu__container > li > a{padding-top:19px;padding-bottom:19px;padding-left:0;padding-right:0;font-weight:500;line-height:1.5;font-size:14px;color:#fff;}.page-mobile-main-menu .menu__container > li > a:hover, .page-mobile-main-menu .menu__container > li.opened > a{color:#fff;}.page-mobile-main-menu .menu__container > li + li > a, .page-mobile-main-menu .menu__container > li.opened > a{border-color:rgba(255, 255, 255, 0.15);}.page-mobile-main-menu .children > li > a,.page-mobile-main-menu .simple-menu > li > a{padding-top:10px;padding-bottom:10px;padding-left:0;padding-right:0;}.page-mobile-main-menu .simple-menu > li > a, .page-mobile-main-menu .children > li > a{font-weight:500;line-height:1.5;}.page-mobile-main-menu .children > li > a{font-size:13px;}.page-mobile-main-menu .children > li > a, .page-mobile-main-menu .unicamp-list .link{color:rgba(255, 255, 255, 0.7);}.page-mobile-main-menu .children a:hover, .page-mobile-main-menu .children .opened > a, .page-mobile-main-menu .current-menu-item > a{color:#fff;}.page-mobile-main-menu .toggle-sub-menu{color:#fff;background:rgba(255, 255, 255, 0);}.page-mobile-main-menu .toggle-sub-menu:hover{color:#fff;background:rgba(255, 255, 255, 0.2);}.page-title-bar-01 .page-title-bar-bg{background:#f8f8f8;background-color:#f8f8f8;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-01 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:17px;padding-bottom:61px;}.page-title-bar-01{margin-bottom:60px;}.page-title-bar-01 .heading{font-size:52px;font-weight:700;line-height:1.24;color:#111;}.page-title-bar-01 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#333;}.page-title-bar-01 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-01 .insight_core_breadcrumb a{color:#ababab;}.page-title-bar-01 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-01 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-02 .page-title-bar-bg{background-image:url("../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-02-bg.jpg");background-color:#111;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-02 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:17px;padding-bottom:61px;}.page-title-bar-02{margin-bottom:60px;}.page-title-bar-02 .heading{font-size:52px;font-weight:700;line-height:1.24;color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-02 .insight_core_breadcrumb a{color:#fff;}.page-title-bar-02 .insight_core_breadcrumb a:hover{color:#fff;}.page-title-bar-02 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-03 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-03 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-03{margin-bottom:52px;}.page-title-bar-03 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-03 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-03 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-03 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-03 .insight_core_breadcrumb li + li:before{color:#696969;}.page-title-bar-04 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-04 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-04 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-04 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-04 .insight_core_breadcrumb a{color:#ababab;}.page-title-bar-04 .insight_core_breadcrumb a:hover{color:#ae152d;}.page-title-bar-04 .insight_core_breadcrumb li + li:before{color:#ababab;}.page-title-bar-05 .page-title-bar-bg{background:#F5F7FD;background-color:#F5F7FD;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-05 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-05{margin-bottom:74px;}.page-title-bar-05 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-05 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-05 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-05 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-05 .insight_core_breadcrumb li + li:before{color:#696969;}.page-title-bar-07 .page-title-bar-bg{background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-title-bar-07 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:16px;padding-bottom:16px;}.page-title-bar-07 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#fff;}.page-title-bar-07 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-07 .insight_core_breadcrumb a{color:#fff;}.page-title-bar-07 .insight_core_breadcrumb a:hover{color:#fff;}.page-title-bar-07 .insight_core_breadcrumb li + li:before{color:#fff;}.page-title-bar-08 .page-title-bar-bg{background-image:url("../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-08-bg.png");background-color:#f8f8f8;background-repeat:no-repeat;background-position:bottom right;background-attachment:scroll;-webkit-background-size:auto;-moz-background-size:auto;-ms-background-size:auto;-o-background-size:auto;background-size:auto;}.page-title-bar-08 .page-title-bar-inner{border-bottom-width:0px;border-bottom-color:rgba(0, 0, 0, 0);padding-top:80px;padding-bottom:80px;}.page-title-bar-08{margin-bottom:57px;}.page-title-bar-08 .heading{font-size:40px;font-weight:500;line-height:1.4;}.page-title-bar-08 .insight_core_breadcrumb li{font-size:14px;font-weight:500;line-height:26px;color:#111;}.page-title-bar-08 .insight_core_breadcrumb li a{font-size:14px;font-weight:400;line-height:26px;}.page-title-bar-08 .insight_core_breadcrumb a{color:#696969;}.page-title-bar-08 .insight_core_breadcrumb a:hover{color:#111;}.page-title-bar-08 .insight_core_breadcrumb li + li:before{color:#696969;}.page-loading{background-color:#fff;}.page-loading .sk-wrap{color:#ae152d;}.error404{background-repeat:no-repeat;background-position:center center;background-attachment:fixed;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.branding-logo-wrap img, .error404--header .branding-logo-wrap img{width:224px;}.branding-logo-wrap img{padding-top:15px;padding-right:0px;padding-bottom:15px;padding-left:0px;}.header-sticky-both .headroom.headroom--not-top .branding img, .header-sticky-up .headroom.headroom--not-top.headroom--pinned .branding img, .header-sticky-down .headroom.headroom--not-top.headroom--unpinned .branding img{width:165px;}.headroom--not-top .branding-logo-wrap .sticky-logo{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;}.page-mobile-popup-logo img{width:165px;}.archive-event .page-title-bar-02 .page-title-bar-bg{background-image:url("../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/title-bar-bg-event.jpg");background-color:#111;background-repeat:no-repeat;background-position:center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;background-size:cover;}.page-search-popup{background:#fff;}.page-search-popup .search-form, .page-search-popup .search-field:focus{color:#111;}.page-search-popup .search-field:-webkit-autofill{-webkit-text-fill-color:#111!important;}body, .gmap-marker-wrap{font-family:Gordita;font-size:15px;font-weight:400;letter-spacing:0em;line-height:1.87;}h1,h2,h3,h4,h5,h6,.heading,.heading-typography{font-family:Butler;font-weight:700;letter-spacing:0em;line-height:1.3;}h1{font-size:38px;}h2{font-size:34px;}h3{font-size:30px;}h4{font-size:26px;}h5{font-size:22px;}h6{font-size:18px;}b, strong{font-weight:700;}button, input[type="button"], input[type="reset"], input[type="submit"], .wp-block-button__link, .rev-btn, .tm-button, .button, .wc-forward, .elementor-button,.dpn-zvc-single-content-wrapper .dpn-zvc-sidebar-wrapper .dpn-zvc-sidebar-box .join-links .btn,.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn{font-family:inherit;font-size:14px;font-weight:700;letter-spacing:0em;text-transform:none;}@media (max-width: 1199px){.page-title-bar-01 .page-title-bar-inner .heading{font-size:44px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:44px;}.page-title-bar-08 .page-title-bar-inner{padding-top:60px;padding-bottom:50px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:34px;}}@media (max-width: 991px){.page-title-bar-01 .page-title-bar-inner{padding-bottom:50px;}.page-title-bar-01 .page-title-bar-inner .heading{font-size:36px;}.page-title-bar-02 .page-title-bar-inner{padding-bottom:50px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:36px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:28px;}}@media (max-width: 767px){.page-title-bar-01 .page-title-bar-inner .heading{font-size:28px;}.page-title-bar-02 .page-title-bar-inner .heading{font-size:28px;}.page-title-bar-08 .page-title-bar-inner .heading{font-size:24px;}.branding-logo-wrap img, .error404--header .branding-logo-wrap img{width:165px;}}</style></head>
 
 	<body
-		class="home wp-singular page-template-default page page-id-2136 wp-embed-responsive wp-theme-unicamp wp-child-theme-unicamp-child-demo theme-unicamp tutor-lms woocommerce-no-js mobile handheld mobile-menu mobile-menu-push-to-left header-sticky-both wide page-has-no-sidebar title-bar-none woocommerce elementor-default elementor-kit-22 elementor-page elementor-page-2136"
+		class="wp-singular page-template-default page page-id-1775 wp-embed-responsive wp-theme-unicamp wp-child-theme-unicamp-child-demo theme-unicamp tutor-lms woocommerce-no-js desktop desktop-menu mobile-menu-push-to-left header-sticky-both wide page-has-no-sidebar title-bar-07 woocommerce elementor-default elementor-kit-22 elementor-page elementor-page-1775"
 		data-site-width="1200px" data-content-width="1200"
 		data-font="Gordita Helvetica, Arial, sans-serif"
 		data-header-sticky-height="80">
@@ -314,8 +314,24 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 		<div id="page" class="site">
 			<div class="content-wrapper">
 
-				@include('components.header')
+				<x-header/>
 
+				<div id="page-title-bar"
+					class="page-title-bar page-title-bar-fixed page-title-bar-07">
+					<div class="page-title-bar-inner">
+						<div class="page-title-bar-bg"></div>
+
+						<div id="page-breadcrumb" class="page-breadcrumb">
+							<div class="container">
+								<ul class="insight_core_breadcrumb">
+									<li class="level-1 top item-home"><a href="../index.html">Home</a></li>
+									<li
+										class="level-2 sub item-current tail current"><span>About</span></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
 				<div id="page-content" class="page-content">
 					<div class="container">
 						<div class="row">
@@ -323,17 +339,17 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 							<div id="page-main-content" class="page-main-content">
 
 								<div class="rich-snippet display-none">
-									<h1 class="entry-title">University 01</h1> <span
-										class="published">March 22, 2021</span>
-									<span class="updated" data-time="2021-05-04 8:28">2021-05-04
-										8:28</span>
+									<h1 class="entry-title">About</h1> <span class="published">March 16,
+										2021</span>
+									<span class="updated" data-time="2021-05-05 7:14">2021-05-05
+										7:14</span>
 								</div>
 
-								<article id="post-2136"
-									class="post-2136 page type-page status-publish hentry post-no-thumbnail">
-									<h2 class="screen-reader-text">University 01</h2>
-									<div data-elementor-type="wp-page" data-elementor-id="2136"
-										class="elementor elementor-2136" data-elementor-post-type="page">
+								<article id="post-1775"
+									class="post-1775 page type-page status-publish hentry post-no-thumbnail">
+									<h2 class="screen-reader-text">About</h2>
+									<div data-elementor-type="wp-page" data-elementor-id="1775"
+										class="elementor elementor-1775" data-elementor-post-type="page">
 										<section
 											class="elementor-section elementor-top-section elementor-element elementor-element-1f152a1 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
 											data-id="1f152a1" data-element_type="section">
@@ -343,7 +359,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 													data-id="7aadad7" data-element_type="column">
 													<div class="elementor-widget-wrap elementor-element-populated">
 														<div
-															class="elementor-element elementor-element-fb74d74 bullets-v-align-bottom unicamp-modern-slider-style-03 elementor-widget elementor-widget-tm-modern-slider"
+															class="elementor-element elementor-element-fb74d74 bullets-v-align-bottom unicamp-modern-slider-style-01 elementor-widget elementor-widget-tm-modern-slider"
 															data-id="fb74d74" data-element_type="widget"
 															data-settings="{&quot;swiper_items&quot;:&quot;1&quot;,&quot;swiper_items_tablet&quot;:&quot;1&quot;,&quot;swiper_items_mobile&quot;:&quot;1&quot;}"
 															data-widget_type="tm-modern-slider.default">
@@ -351,7 +367,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																<div class="tm-modern-slider">
 
 																	<div
-																		class="tm-swiper tm-slider-widget pagination-style-01 bullets-horizontal bullets-h-align-right bullets-v-align-bottom slide-layer-transition"
+																		class="tm-swiper tm-slider-widget pagination-style-01 bullets-horizontal bullets-h-align-center bullets-v-align-bottom slide-layer-transition"
 																		data-lg-items="1" data-lg-gutter="0" data-md-items="1"
 																		data-sm-items="1" data-pagination-aligned-by="grid"
 																		data-pagination="1" data-loop="1" data-simulate-touch="1"
@@ -370,39 +386,12 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							<div class="slide-content">
 																								<div class="slide-layers">
 
-																									<div class="slide-layer-wrap title-wrap">
-																										<div class="slide-layer">
-																											<h3 class="title">Discover the world of possibility
-																												with UniCamp!</h3> </div>
-																									</div>
-
-																									<div class="slide-layer-wrap description-wrap">
-																										<div class="slide-layer">
-																											<div
-																												class="description">Fall 2020 Applications are Now
-																												Open</div>
-																										</div>
-																									</div>
-
-																									<div class="slide-layer-wrap button-wrap">
-																										<div class="slide-layer">
-																											<div class="tm-button-wrapper">
-																												<a class="tm-button style-flat"
-																													href="admissions/index.html">
-																													<div class="button-content-wrapper">
-																														<span class="button-text">
-																															Admissions </span>
-																													</div>
-																												</a>
-																											</div>
-																										</div>
-																									</div>
 																								</div>
 																							</div>
 																						</div>
 																					</div>
 																					<div
-																						class="swiper-slide elementor-repeater-item-ea97025 unicamp-slide-bg-animation-ken-burns">
+																						class="swiper-slide elementor-repeater-item-b9c1997 unicamp-slide-bg-animation-ken-burns">
 																						<div class="slide-bg-wrap">
 																							<div class="slide-bg"></div>
 																						</div>
@@ -410,73 +399,6 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							<div class="slide-content">
 																								<div class="slide-layers">
 
-																									<div class="slide-layer-wrap title-wrap">
-																										<div class="slide-layer">
-																											<h3 class="title">Discover the world of possibility
-																												with UniCamp!</h3> </div>
-																									</div>
-
-																									<div class="slide-layer-wrap description-wrap">
-																										<div class="slide-layer">
-																											<div
-																												class="description">Fall 2020 Applications are Now
-																												Open</div>
-																										</div>
-																									</div>
-
-																									<div class="slide-layer-wrap button-wrap">
-																										<div class="slide-layer">
-																											<div class="tm-button-wrapper">
-																												<a class="tm-button style-flat"
-																													href="admissions/index.html">
-																													<div class="button-content-wrapper">
-																														<span class="button-text">
-																															Admissions </span>
-																													</div>
-																												</a>
-																											</div>
-																										</div>
-																									</div>
-																								</div>
-																							</div>
-																						</div>
-																					</div>
-																					<div
-																						class="swiper-slide elementor-repeater-item-0f08c74 unicamp-slide-bg-animation-ken-burns">
-																						<div class="slide-bg-wrap">
-																							<div class="slide-bg"></div>
-																						</div>
-																						<div class="container">
-																							<div class="slide-content">
-																								<div class="slide-layers">
-
-																									<div class="slide-layer-wrap title-wrap">
-																										<div class="slide-layer">
-																											<h3 class="title">Discover the world of possibility
-																												with UniCamp!</h3> </div>
-																									</div>
-
-																									<div class="slide-layer-wrap description-wrap">
-																										<div class="slide-layer">
-																											<div
-																												class="description">Fall 2020 Applications are Now
-																												Open</div>
-																										</div>
-																									</div>
-
-																									<div class="slide-layer-wrap button-wrap">
-																										<div class="slide-layer">
-																											<div class="tm-button-wrapper">
-																												<a class="tm-button style-flat"
-																													href="admissions/index.html">
-																													<div class="button-content-wrapper">
-																														<span class="button-text">
-																															Admissions </span>
-																													</div>
-																												</a>
-																											</div>
-																										</div>
-																									</div>
 																								</div>
 																							</div>
 																						</div>
@@ -494,349 +416,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 											</div>
 										</section>
 										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-b8f3b82 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="b8f3b82" data-element_type="section"
-											data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+											class="elementor-section elementor-top-section elementor-element elementor-element-9af10c6 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+											data-id="9af10c6" data-element_type="section">
 											<div class="elementor-container elementor-column-gap-extended">
 												<div
-													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48be554"
-													data-id="48be554" data-element_type="column">
+													class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c7eceff"
+													data-id="c7eceff" data-element_type="column">
 													<div class="elementor-widget-wrap elementor-element-populated">
 														<div
-															class="elementor-element elementor-element-727051d elementor-widget elementor-widget-spacer"
-															data-id="727051d" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-														<section
-															class="elementor-section elementor-inner-section elementor-element elementor-element-404812f elementor-section-gap-beside-no elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-															data-id="404812f" data-element_type="section">
-															<div class="elementor-container elementor-column-gap-extended">
-																<div
-																	class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d2686dc elementor-invisible"
-																	data-id="d2686dc" data-element_type="column"
-																	data-settings="{&quot;animation&quot;:&quot;unicampFadeInUp&quot;}">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-da2d510 elementor-widget__width-auto elementor-widget elementor-widget-tm-heading"
-																			data-id="da2d510" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;none&quot;}"
-																			data-widget_type="tm-heading.default">
-																			<div class="elementor-widget-container">
-																				<div class="tm-modern-heading">
-
-																					<div class="heading-primary-wrap">
-																						<h3 class="heading-primary elementor-heading-title">News &
-																							Updates</h3> </div>
-
-																				</div>
-																			</div>
-																		</div>
-																		<div
-																			class="elementor-element elementor-element-6fbdc46 elementor-widget__width-initial elementor-align-center elementor-widget elementor-widget-tm-separator"
-																			data-id="6fbdc46" data-element_type="widget"
-																			data-widget_type="tm-separator.default">
-																			<div class="elementor-widget-container">
-																				<div class="tm-separator horizontal-line">
-																					<div class="inner"></div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-02dc752"
-																	data-id="02dc752" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-fe18874 elementor-align-right elementor-mobile-align-left elementor-invisible elementor-widget elementor-widget-tm-button"
-																			data-id="fe18874" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-																			data-widget_type="tm-button.default">
-																			<div class="elementor-widget-container">
-																				<div class="tm-button-wrapper">
-																					<a href="blog/index.html"
-																						class="tm-button-link tm-button style-flat tm-button-nm icon-right"
-																						role="button">
-																						<div class="button-content-wrapper">
-
-																							<span class="button-text">View all news</span>
-
-																							<span class="button-icon">
-																								<i class="fas fa-long-arrow-right"></i> </span>
-																						</div>
-
-																					</a>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</section>
-														<div
-															class="elementor-element elementor-element-36e2ecc unicamp-animation-zoom-in elementor-invisible elementor-widget elementor-widget-tm-blog"
-															data-id="36e2ecc" data-element_type="widget"
-															data-settings="{&quot;grid_columns&quot;:4,&quot;_animation&quot;:&quot;unicampFadeInUp&quot;,&quot;grid_columns_tablet&quot;:2,&quot;grid_columns_mobile&quot;:1}"
-															data-widget_type="tm-blog.default">
-															<div class="elementor-widget-container">
-																<div
-																	class="unicamp-grid-wrapper unicamp-blog unicamp-blog-metro unicamp-grid-metro"
-																	data-grid="{&quot;type&quot;:&quot;metro&quot;,&quot;ratio&quot;:1,&quot;columns&quot;:4,&quot;columnsTablet&quot;:2,&quot;columnsMobile&quot;:1,&quot;gutter&quot;:30}">
-
-																	<input type="hidden"
-																		class="unicamp-query-input"
-																		value="{&quot;source&quot;:&quot;custom_query&quot;,&quot;action&quot;:&quot;post_infinite_load&quot;,&quot;max_num_pages&quot;:5,&quot;found_posts&quot;:17,&quot;count&quot;:4,&quot;query_vars&quot;:{&quot;post_type&quot;:&quot;post&quot;,&quot;posts_per_page&quot;:4,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;post_status&quot;:&quot;publish&quot;,&quot;paged&quot;:1},&quot;settings&quot;:{&quot;layout&quot;:&quot;metro&quot;,&quot;hover_effect&quot;:&quot;zoom-in&quot;,&quot;show_caption&quot;:null,&quot;caption_style&quot;:&quot;02&quot;,&quot;read_more_text&quot;:&quot;Read More&quot;,&quot;overlay_meta_data&quot;:[],&quot;banners&quot;:null,&quot;grid_columns&quot;:4,&quot;grid_metro_layout&quot;:[{&quot;size&quot;:&quot;2:2&quot;,&quot;_id&quot;:&quot;53f348a&quot;},{&quot;_id&quot;:&quot;7cceb43&quot;,&quot;size&quot;:&quot;1:1&quot;},{&quot;_id&quot;:&quot;dfcc19e&quot;,&quot;size&quot;:&quot;1:1&quot;},{&quot;size&quot;:&quot;2:1&quot;,&quot;_id&quot;:&quot;8c46f65&quot;}],&quot;query_number&quot;:4,&quot;_animation&quot;:&quot;unicampFadeInUp&quot;,&quot;show_thumbnail&quot;:null,&quot;show_caption_category&quot;:&quot;yes&quot;,&quot;show_caption_excerpt&quot;:&quot;yes&quot;,&quot;excerpt_length&quot;:&quot;&quot;,&quot;show_caption_read_more&quot;:&quot;yes&quot;,&quot;show_caption_share&quot;:&quot;&quot;,&quot;show_caption_meta&quot;:[&quot;date&quot;,&quot;views&quot;],&quot;show_overlay&quot;:null,&quot;overlay_style&quot;:&quot;float&quot;,&quot;show_overlay_category&quot;:&quot;yes&quot;,&quot;show_overlay_title&quot;:&quot;&quot;,&quot;metro_image_size_width&quot;:480,&quot;metro_image_ratio&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;thumbnail_default_size&quot;:null,&quot;thumbnail_size&quot;:null,&quot;thumbnail_custom_dimension&quot;:null,&quot;grid_columns_tablet&quot;:2,&quot;grid_columns_mobile&quot;:1,&quot;grid_gutter&quot;:30,&quot;pagination_type&quot;:&quot;&quot;,&quot;pagination_custom_button_id&quot;:null,&quot;query_source&quot;:&quot;custom_query&quot;,&quot;query_include&quot;:&quot;&quot;,&quot;query_include_term_ids&quot;:null,&quot;query_include_authors&quot;:null,&quot;query_exclude&quot;:&quot;&quot;,&quot;query_exclude_term_ids&quot;:null,&quot;query_exclude_authors&quot;:null,&quot;query_offset&quot;:&quot;&quot;,&quot;query_orderby&quot;:&quot;date&quot;,&quot;query_sort_meta_key&quot;:null,&quot;query_order&quot;:&quot;DESC&quot;,&quot;_title&quot;:&quot;&quot;,&quot;_element_width&quot;:&quot;&quot;,&quot;_element_width_tablet&quot;:&quot;&quot;,&quot;_element_width_mobile&quot;:&quot;&quot;,&quot;_position&quot;:&quot;&quot;,&quot;_element_id&quot;:&quot;&quot;,&quot;_css_classes&quot;:&quot;&quot;,&quot;e_display_conditions&quot;:&quot;&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;&quot;,&quot;motion_fx_translateY_effect&quot;:null,&quot;motion_fx_translateY_direction&quot;:null,&quot;motion_fx_translateY_speed&quot;:null,&quot;motion_fx_translateY_affectedRange&quot;:null,&quot;motion_fx_translateX_effect&quot;:null,&quot;motion_fx_translateX_direction&quot;:null,&quot;motion_fx_translateX_speed&quot;:null,&quot;motion_fx_translateX_affectedRange&quot;:null,&quot;motion_fx_opacity_effect&quot;:null,&quot;motion_fx_opacity_direction&quot;:null,&quot;motion_fx_opacity_level&quot;:null,&quot;motion_fx_opacity_range&quot;:null,&quot;motion_fx_blur_effect&quot;:null,&quot;motion_fx_blur_direction&quot;:null,&quot;motion_fx_blur_level&quot;:null,&quot;motion_fx_blur_range&quot;:null,&quot;motion_fx_rotateZ_effect&quot;:null,&quot;motion_fx_rotateZ_direction&quot;:null,&quot;motion_fx_rotateZ_speed&quot;:null,&quot;motion_fx_rotateZ_affectedRange&quot;:null,&quot;motion_fx_scale_effect&quot;:null,&quot;motion_fx_scale_direction&quot;:null,&quot;motion_fx_scale_speed&quot;:null,&quot;motion_fx_scale_range&quot;:null,&quot;motion_fx_devices&quot;:null,&quot;motion_fx_range&quot;:null,&quot;motion_fx_motion_fx_mouse&quot;:&quot;&quot;,&quot;motion_fx_mouseTrack_effect&quot;:null,&quot;motion_fx_mouseTrack_direction&quot;:null,&quot;motion_fx_mouseTrack_speed&quot;:null,&quot;motion_fx_tilt_effect&quot;:null,&quot;motion_fx_tilt_direction&quot;:null,&quot;motion_fx_tilt_speed&quot;:null,&quot;handle_motion_fx_asset_loading&quot;:&quot;&quot;,&quot;sticky&quot;:&quot;&quot;,&quot;sticky_on&quot;:null,&quot;sticky_offset&quot;:null,&quot;sticky_offset_tablet&quot;:null,&quot;sticky_offset_mobile&quot;:null,&quot;sticky_effects_offset&quot;:null,&quot;sticky_effects_offset_tablet&quot;:null,&quot;sticky_effects_offset_mobile&quot;:null,&quot;sticky_anchor_link_offset&quot;:null,&quot;sticky_anchor_link_offset_tablet&quot;:null,&quot;sticky_anchor_link_offset_mobile&quot;:null,&quot;sticky_parent&quot;:null,&quot;_animation_tablet&quot;:&quot;&quot;,&quot;_animation_mobile&quot;:&quot;&quot;,&quot;animation_duration&quot;:&quot;&quot;,&quot;_animation_delay&quot;:&quot;&quot;,&quot;_transform_rotate_popover&quot;:&quot;&quot;,&quot;_transform_rotateZ_effect&quot;:null,&quot;_transform_rotateZ_effect_tablet&quot;:null,&quot;_transform_rotateZ_effect_mobile&quot;:null,&quot;_transform_rotate_3d&quot;:null,&quot;_transform_rotateX_effect&quot;:null,&quot;_transform_rotateX_effect_tablet&quot;:null,&quot;_transform_rotateX_effect_mobile&quot;:null,&quot;_transform_rotateY_effect&quot;:null,&quot;_transform_rotateY_effect_tablet&quot;:null,&quot;_transform_rotateY_effect_mobile&quot;:null,&quot;_transform_perspective_effect&quot;:null,&quot;_transform_perspective_effect_tablet&quot;:null,&quot;_transform_perspective_effect_mobile&quot;:null,&quot;_transform_translate_popover&quot;:&quot;&quot;,&quot;_transform_translateX_effect&quot;:null,&quot;_transform_translateX_effect_tablet&quot;:null,&quot;_transform_translateX_effect_mobile&quot;:null,&quot;_transform_translateY_effect&quot;:null,&quot;_transform_translateY_effect_tablet&quot;:null,&quot;_transform_translateY_effect_mobile&quot;:null,&quot;_transform_scale_popover&quot;:&quot;&quot;,&quot;_transform_keep_proportions&quot;:&quot;yes&quot;,&quot;_transform_scale_effect&quot;:null,&quot;_transform_scale_effect_tablet&quot;:null,&quot;_transform_scale_effect_mobile&quot;:null,&quot;_transform_scaleX_effect&quot;:null,&quot;_transform_scaleX_effect_tablet&quot;:null,&quot;_transform_scaleX_effect_mobile&quot;:null,&quot;_transform_scaleY_effect&quot;:null,&quot;_transform_scaleY_effect_tablet&quot;:null,&quot;_transform_scaleY_effect_mobile&quot;:null,&quot;_transform_skew_popover&quot;:&quot;&quot;,&quot;_transform_skewX_effect&quot;:null,&quot;_transform_skewX_effect_tablet&quot;:null,&quot;_transform_skewX_effect_mobile&quot;:null,&quot;_transform_skewY_effect&quot;:null,&quot;_transform_skewY_effect_tablet&quot;:null,&quot;_transform_skewY_effect_mobile&quot;:null,&quot;_transform_flipX_effect&quot;:&quot;&quot;,&quot;_transform_flipY_effect&quot;:&quot;&quot;,&quot;_transform_rotate_popover_hover&quot;:&quot;&quot;,&quot;_transform_rotateZ_effect_hover&quot;:null,&quot;_transform_rotateZ_effect_hover_tablet&quot;:null,&quot;_transform_rotateZ_effect_hover_mobile&quot;:null,&quot;_transform_rotate_3d_hover&quot;:null,&quot;_transform_rotateX_effect_hover&quot;:null,&quot;_transform_rotateX_effect_hover_tablet&quot;:null,&quot;_transform_rotateX_effect_hover_mobile&quot;:null,&quot;_transform_rotateY_effect_hover&quot;:null,&quot;_transform_rotateY_effect_hover_tablet&quot;:null,&quot;_transform_rotateY_effect_hover_mobile&quot;:null,&quot;_transform_perspective_effect_hover&quot;:null,&quot;_transform_perspective_effect_hover_tablet&quot;:null,&quot;_transform_perspective_effect_hover_mobile&quot;:null,&quot;_transform_translate_popover_hover&quot;:&quot;&quot;,&quot;_transform_translateX_effect_hover&quot;:null,&quot;_transform_translateX_effect_hover_tablet&quot;:null,&quot;_transform_translateX_effect_hover_mobile&quot;:null,&quot;_transform_translateY_effect_hover&quot;:null,&quot;_transform_translateY_effect_hover_tablet&quot;:null,&quot;_transform_translateY_effect_hover_mobile&quot;:null,&quot;_transform_scale_popover_hover&quot;:&quot;&quot;,&quot;_transform_keep_proportions_hover&quot;:&quot;yes&quot;,&quot;_transform_scale_effect_hover&quot;:null,&quot;_transform_scale_effect_hover_tablet&quot;:null,&quot;_transform_scale_effect_hover_mobile&quot;:null,&quot;_transform_scaleX_effect_hover&quot;:null,&quot;_transform_scaleX_effect_hover_tablet&quot;:null,&quot;_transform_scaleX_effect_hover_mobile&quot;:null,&quot;_transform_scaleY_effect_hover&quot;:null,&quot;_transform_scaleY_effect_hover_tablet&quot;:null,&quot;_transform_scaleY_effect_hover_mobile&quot;:null,&quot;_transform_skew_popover_hover&quot;:&quot;&quot;,&quot;_transform_skewX_effect_hover&quot;:null,&quot;_transform_skewX_effect_hover_tablet&quot;:null,&quot;_transform_skewX_effect_hover_mobile&quot;:null,&quot;_transform_skewY_effect_hover&quot;:null,&quot;_transform_skewY_effect_hover_tablet&quot;:null,&quot;_transform_skewY_effect_hover_mobile&quot;:null,&quot;_transform_flipX_effect_hover&quot;:&quot;&quot;,&quot;_transform_flipY_effect_hover&quot;:&quot;&quot;,&quot;_background_color&quot;:null,&quot;_background_color_b&quot;:null,&quot;_background_image&quot;:null,&quot;_background_video_link&quot;:null,&quot;_background_video_start&quot;:null,&quot;_background_video_end&quot;:null,&quot;_background_play_once&quot;:null,&quot;_background_play_on_mobile&quot;:null,&quot;_background_privacy_mode&quot;:null,&quot;_background_slideshow_gallery&quot;:null,&quot;_background_slideshow_loop&quot;:null,&quot;_background_slideshow_slide_duration&quot;:null,&quot;_background_slideshow_slide_transition&quot;:null,&quot;_background_slideshow_transition_duration&quot;:null,&quot;_background_slideshow_lazyload&quot;:null,&quot;_background_slideshow_ken_burns&quot;:null,&quot;_background_slideshow_ken_burns_zoom_direction&quot;:null,&quot;_background_hover_color&quot;:null,&quot;_background_hover_color_b&quot;:null,&quot;_background_hover_image&quot;:null,&quot;_background_hover_video_link&quot;:null,&quot;_background_hover_video_start&quot;:null,&quot;_background_hover_video_end&quot;:null,&quot;_background_hover_play_once&quot;:null,&quot;_background_hover_play_on_mobile&quot;:null,&quot;_background_hover_privacy_mode&quot;:null,&quot;_background_hover_slideshow_gallery&quot;:null,&quot;_background_hover_slideshow_loop&quot;:null,&quot;_background_hover_slideshow_slide_duration&quot;:null,&quot;_background_hover_slideshow_slide_transition&quot;:null,&quot;_background_hover_slideshow_transition_duration&quot;:null,&quot;_background_hover_slideshow_lazyload&quot;:null,&quot;_background_hover_slideshow_ken_burns&quot;:null,&quot;_background_hover_slideshow_ken_burns_zoom_direction&quot;:null,&quot;_mask_switch&quot;:&quot;&quot;,&quot;_mask_notice&quot;:null,&quot;hide_desktop&quot;:&quot;&quot;,&quot;hide_tablet&quot;:&quot;&quot;,&quot;hide_mobile&quot;:&quot;&quot;,&quot;_attributes&quot;:&quot;&quot;}}" />
-
-																	<div class="unicamp-grid lazy-grid">
-																		<div class="grid-sizer"></div>
-
-																		<div
-																			class="grid-item post-item post-1862 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni category-research tag-alumni tag-campus tag-career tag-research"
-																			data-width="2"
-																			data-height="2">
-																			<div class="post-wrapper unicamp-box">
-																				<div
-																					class="post-thumbnail-wrapper unicamp-image grid-item-height">
-
-																					<div class="post-thumbnail">
-																						<a
-																							href="autism-rates-have-increased-and-show-differences-in-ethnic-minorities/index.html">
-																							<img decoding="async" loading="lazy"
-																								src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/blog-14.jpg"
-																								alt="blog-14" /> </a>
-																					</div>
-																				</div>
-
-																				<div class="post-caption">
-																					<div class="post-categories">
-																						<a href="category/alumni/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #a371ff"></span><span
-																								class="cat-name">Alumni</span></a><a
-																							href="category/research/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #6cbd7e"></span><span
-																								class="cat-name">Research</span></a> </div>
-
-																					<h3 class="post-title post-title-2-rows">
-																						<a
-																							href="autism-rates-have-increased-and-show-differences-in-ethnic-minorities/index.html">Autism
-																							rates have increased and show differences in ethnic
-																							minorities</a>
-																					</h3>
-
-																					<div class="post-meta">
-																						<div class="inner">
-																							<div class="post-meta-author">
-																								<a href="author/thememove/index.html">
-																									<span class="meta-value">Owen Christ</span>
-																								</a>
-																							</div>
-																							<div class="post-date">
-																								<span class="meta-value">March 17, 2021</span>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</div>
-																		</div>
-																		<div
-																			class="grid-item post-item post-1745 post type-post status-publish format-standard has-post-thumbnail hentry category-student-life category-student-story tag-campus tag-career tag-health tag-life tag-pandemic"
-																			data-width="1"
-																			data-height="1">
-																			<div class="post-wrapper unicamp-box">
-																				<div
-																					class="post-thumbnail-wrapper unicamp-image grid-item-height">
-
-																					<div class="post-thumbnail">
-																						<a
-																							href="most-students-say-their-mental-health-suffered-in-pandemic/index.html">
-																							<img loading="lazy" decoding="async" loading="lazy"
-																								src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/blog-13-480x480.jpg"
-																								alt="blog-13" width="480" height="480" /> </a>
-																					</div>
-																				</div>
-
-																				<div class="post-caption">
-																					<div class="post-categories">
-																						<a href="category/student-life/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #77ccfd"></span><span
-																								class="cat-name">Student life</span></a><a
-																							href="category/student-story/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #a701ad"></span><span
-																								class="cat-name">Student story</span></a> </div>
-
-																					<h3 class="post-title post-title-2-rows">
-																						<a
-																							href="most-students-say-their-mental-health-suffered-in-pandemic/index.html">Most
-																							students say their mental health suffered in pandemic</a>
-																					</h3>
-
-																					<div class="post-meta">
-																						<div class="inner">
-																							<div class="post-meta-author">
-																								<a href="author/thememove/index.html">
-																									<span class="meta-value">Owen Christ</span>
-																								</a>
-																							</div>
-																							<div class="post-date">
-																								<span class="meta-value">January 25, 2021</span>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</div>
-																		</div>
-																		<div
-																			class="grid-item post-item post-100 post type-post status-publish format-standard has-post-thumbnail hentry category-career category-research category-spotlight category-student-story tag-campus tag-career tag-digital-learning tag-learning-business"
-																			data-width="1"
-																			data-height="1">
-																			<div class="post-wrapper unicamp-box">
-																				<div
-																					class="post-thumbnail-wrapper unicamp-image grid-item-height">
-
-																					<div class="post-thumbnail">
-																						<a
-																							href="most-students-pleased-with-their-digital-learning/index.html">
-																							<img loading="lazy" decoding="async" loading="lazy"
-																								src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/blog-12-480x480.jpg"
-																								alt="blog-12" width="480" height="480" /> </a>
-																					</div>
-																				</div>
-
-																				<div class="post-caption">
-																					<div class="post-categories">
-																						<a href="category/career/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #381ec3"></span><span
-																								class="cat-name">Career</span></a><a
-																							href="category/research/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #6cbd7e"></span><span
-																								class="cat-name">Research</span></a> </div>
-
-																					<h3 class="post-title post-title-2-rows">
-																						<a
-																							href="most-students-pleased-with-their-digital-learning/index.html">Most
-																							students pleased with their digital learning</a>
-																					</h3>
-
-																					<div class="post-meta">
-																						<div class="inner">
-																							<div class="post-meta-author">
-																								<a href="author/thememove/index.html">
-																									<span class="meta-value">Owen Christ</span>
-																								</a>
-																							</div>
-																							<div class="post-date">
-																								<span class="meta-value">January 23, 2021</span>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</div>
-																		</div>
-																		<div
-																			class="grid-item post-item post-97 post type-post status-publish format-standard has-post-thumbnail hentry category-research category-student-life tag-campus tag-career tag-life"
-																			data-width="2"
-																			data-height="1">
-																			<div class="post-wrapper unicamp-box">
-																				<div
-																					class="post-thumbnail-wrapper unicamp-image grid-item-height">
-
-																					<div class="post-thumbnail">
-																						<a
-																							href="gender-inequality-in-higher-education-persists/index.html">
-																							<img loading="lazy" decoding="async" loading="lazy"
-																								src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/blog-11-960x480.jpg"
-																								alt="blog-11" width="960" height="480" /> </a>
-																					</div>
-																				</div>
-
-																				<div class="post-caption">
-																					<div class="post-categories">
-																						<a href="category/research/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #6cbd7e"></span><span
-																								class="cat-name">Research</span></a><a
-																							href="category/student-life/index.html"
-																							rel="category tag"><span class="cat-shape"
-																								style="background: #77ccfd"></span><span
-																								class="cat-name">Student life</span></a> </div>
-
-																					<h3 class="post-title post-title-2-rows">
-																						<a
-																							href="gender-inequality-in-higher-education-persists/index.html">Gender
-																							inequality in higher education persists</a>
-																					</h3>
-
-																					<div class="post-meta">
-																						<div class="inner">
-																							<div class="post-meta-author">
-																								<a href="author/thememove/index.html">
-																									<span class="meta-value">Owen Christ</span>
-																								</a>
-																							</div>
-																							<div class="post-date">
-																								<span class="meta-value">January 22, 2021</span>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</div>
-																		</div>
-																	</div>
-
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-70c96ee elementor-widget elementor-widget-spacer"
-															data-id="70c96ee" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-6b6d8d3 elementor-section-column-vertical-align-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default"
-											data-id="6b6d8d3" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3c482ec"
-													data-id="3c482ec" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-50d3940 unicamp-shape-rectangle elementor-widget__width-auto elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-widget elementor-widget-tm-shapes"
-															data-id="50d3940" data-element_type="widget"
-															data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
-															data-widget_type="tm-shapes.default">
-															<div class="elementor-widget-container">
-																<div class="unicamp-shape">
-																	<div class="shape"></div>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-e529c11 elementor-widget__width-auto elementor-absolute unicamp-view-default elementor-widget elementor-widget-tm-icon"
-															data-id="e529c11" data-element_type="widget"
+															class="elementor-element elementor-element-9cc1178 elementor-widget__width-auto elementor-absolute unicamp-view-default elementor-widget elementor-widget-tm-icon"
+															data-id="9cc1178" data-element_type="widget"
 															data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
 															data-widget_type="tm-icon.default">
 															<div class="elementor-widget-container">
@@ -858,23 +447,45 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																</div> </div>
 														</div>
 														<div
-															class="elementor-element elementor-element-a22f902 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="a22f902" data-element_type="widget"
+															class="elementor-element elementor-element-ef392b6 elementor-invisible elementor-widget elementor-widget-tm-heading"
+															data-id="ef392b6" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-heading.default">
 															<div class="elementor-widget-container">
 																<div class="tm-modern-heading">
 
 																	<div class="heading-primary-wrap">
-																		<h2 class="heading-primary elementor-heading-title">Welcome to
-																			Maa Bharthi PG Nursing College</h2> </div>
+																		<div class="heading-primary elementor-heading-title">About
+																			us</div> </div>
 
 																</div>
 															</div>
 														</div>
 														<div
-															class="elementor-element elementor-element-d8acf73 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="d8acf73" data-element_type="widget"
+															class="elementor-element elementor-element-ddf18f5 elementor-invisible elementor-widget elementor-widget-tm-heading"
+															data-id="ddf18f5" data-element_type="widget"
+															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
+															data-widget_type="tm-heading.default">
+															<div class="elementor-widget-container">
+																<div class="tm-modern-heading">
+
+																	<div class="heading-primary-wrap">
+																		<h3 class="heading-primary elementor-heading-title">We Are One
+																			of The Largest, Most Diverse Universities
+																			in The USA</h3> </div>
+
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+												<div
+													class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fc89a19"
+													data-id="fc89a19" data-element_type="column">
+													<div class="elementor-widget-wrap elementor-element-populated">
+														<div
+															class="elementor-element elementor-element-29004c1 elementor-invisible elementor-widget elementor-widget-tm-heading"
+															data-id="29004c1" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-heading.default">
 															<div class="elementor-widget-container">
@@ -885,35 +496,37 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																			community is being called to reimagine the future. As the
 																			only university where a renowned design school comes together
 																			with premier colleges, we are making learning more relevant
-																			and transformational. </div> </div>
+																			and transformational. We are enriched by the wide range of
+																			experiences and perspectives of our students, faculty, staff
+																			and alumni.</div> </div>
 
 																</div>
 															</div>
 														</div>
 														<div
-															class="elementor-element elementor-element-fa6e470 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="fa6e470" data-element_type="widget"
+															class="elementor-element elementor-element-bfb0b0d elementor-invisible elementor-widget elementor-widget-tm-heading"
+															data-id="bfb0b0d" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-heading.default">
 															<div class="elementor-widget-container">
 																<div class="tm-modern-heading">
 
 																	<div class="heading-primary-wrap">
-																		<div class="heading-primary elementor-heading-title">We are
-																			united in our mission to solve real-world problems for a
-																			better tomorrow. </div> </div>
+																		<div class="heading-primary elementor-heading-title">Preparing
+																			students to make meaningful contributions to society as
+																			leaders in a complex world.</div> </div>
 
 																</div>
 															</div>
 														</div>
 														<div
-															class="elementor-element elementor-element-adba291 elementor-tablet-align-center elementor-invisible elementor-widget elementor-widget-tm-button"
-															data-id="adba291" data-element_type="widget"
+															class="elementor-element elementor-element-02aa1f9 elementor-invisible elementor-widget elementor-widget-tm-button"
+															data-id="02aa1f9" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-button.default">
 															<div class="elementor-widget-container">
 																<div class="tm-button-wrapper">
-																	<a href="about/index.html"
+																	<a href="#"
 																		class="tm-button-link tm-button style-flat tm-button-nm icon-right"
 																		role="button">
 																		<div class="button-content-wrapper">
@@ -930,72 +543,31 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 														</div>
 													</div>
 												</div>
-												<div
-													class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-696aa27"
-													data-id="696aa27" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-b1de56e elementor-invisible elementor-widget elementor-widget-image"
-															data-id="b1de56e" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="image.default">
-															<div class="elementor-widget-container">
-																<img fetchpriority="high" decoding="async" width="1115"
-																	height="702"
-																	src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image.jpg"
-																	class="attachment-full size-full wp-image-2166" alt
-																	srcset="https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image.jpg 1115w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image-300x189.jpg 300w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image-1024x645.jpg 1024w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image-768x484.jpg 768w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/home-01-welcome-image-600x378.jpg 600w"
-																	sizes="(max-width: 1115px) 100vw, 1115px" /> </div>
-														</div>
-													</div>
-												</div>
 											</div>
 										</section>
 										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-dbea2bb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="dbea2bb" data-element_type="section">
+											class="elementor-section elementor-top-section elementor-element elementor-element-a445065 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+											data-id="a445065" data-element_type="section">
 											<div class="elementor-container elementor-column-gap-extended">
 												<div
-													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a0dfe83"
-													data-id="a0dfe83" data-element_type="column">
+													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-961ada1"
+													data-id="961ada1" data-element_type="column">
 													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-f32e063 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="f32e063" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<h2 class="heading-primary elementor-heading-title">Why Choose
-																			Us</h2> </div>
-
-																	<div class="heading-divider"></div>
-
-																	<div class="heading-description-wrap">
-																		<div class="heading-description">
-																			We Are One of The Largest, Most Diverse Universities in The
-																			USA </div>
-																	</div>
-																</div>
-															</div>
-														</div>
 														<section
-															class="elementor-section elementor-inner-section elementor-element elementor-element-c9e8d16 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-															data-id="c9e8d16" data-element_type="section">
+															class="elementor-section elementor-inner-section elementor-element elementor-element-59decf3 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+															data-id="59decf3" data-element_type="section">
 															<div class="elementor-container elementor-column-gap-extended">
 																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e087a51"
-																	data-id="e087a51" data-element_type="column">
+																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5beebea"
+																	data-id="5beebea" data-element_type="column">
 																	<div class="elementor-widget-wrap elementor-element-populated">
 																		<div
-																			class="elementor-element elementor-element-041ff76 unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
-																			data-id="041ff76" data-element_type="widget"
+																			class="elementor-element elementor-element-ae02415 unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
+																			data-id="ae02415" data-element_type="widget"
 																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 																			data-widget_type="tm-icon-box.default">
 																			<div class="elementor-widget-container">
-																				<div class="tm-icon-box unicamp-box has-link">
+																				<div class="tm-icon-box unicamp-box">
 																					<div class="unicamp-graphic-box icon-box-wrapper">
 																						<div class="unicamp-graphic-element unicamp-icon-wrap">
 																							<div class="unicamp-icon-view first">
@@ -1133,16 +705,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							</div>
 
 																							<div class="tm-button-wrapper">
-																								<a class="tm-button style-flat tm-button-xs icon-right"
-																									href="request-info/index.html"> <div
-																										class="button-content-wrapper">
+																								<div
+																									class="tm-button style-flat tm-button-xs icon-right">
+																									<div class="button-content-wrapper">
 
 																										<span class="button-text">Learn more</span>
 
 																										<span class="button-icon">
 																											<i class="fas fa-long-arrow-right"></i> </span>
 																									</div>
-																								</a> </div>
+																								</div> </div>
 																						</div>
 																					</div>
 
@@ -1151,16 +723,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																	</div>
 																</div>
 																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ec0a377"
-																	data-id="ec0a377" data-element_type="column">
+																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7ddd3d1"
+																	data-id="7ddd3d1" data-element_type="column">
 																	<div class="elementor-widget-wrap elementor-element-populated">
 																		<div
-																			class="elementor-element elementor-element-7484293 unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
-																			data-id="7484293" data-element_type="widget"
+																			class="elementor-element elementor-element-3a9cd5d unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
+																			data-id="3a9cd5d" data-element_type="widget"
 																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 																			data-widget_type="tm-icon-box.default">
 																			<div class="elementor-widget-container">
-																				<div class="tm-icon-box unicamp-box has-link">
+																				<div class="tm-icon-box unicamp-box">
 																					<div class="unicamp-graphic-box icon-box-wrapper">
 																						<div class="unicamp-graphic-element unicamp-icon-wrap">
 																							<div class="unicamp-icon-view first">
@@ -1286,16 +858,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							</div>
 
 																							<div class="tm-button-wrapper">
-																								<a class="tm-button style-flat tm-button-xs icon-right"
-																									href="academics/index.html"> <div
-																										class="button-content-wrapper">
+																								<div
+																									class="tm-button style-flat tm-button-xs icon-right">
+																									<div class="button-content-wrapper">
 
 																										<span class="button-text">Learn more</span>
 
 																										<span class="button-icon">
 																											<i class="fas fa-long-arrow-right"></i> </span>
 																									</div>
-																								</a> </div>
+																								</div> </div>
 																						</div>
 																					</div>
 
@@ -1304,16 +876,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																	</div>
 																</div>
 																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c6e784b"
-																	data-id="c6e784b" data-element_type="column">
+																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-100532a"
+																	data-id="100532a" data-element_type="column">
 																	<div class="elementor-widget-wrap elementor-element-populated">
 																		<div
-																			class="elementor-element elementor-element-d3976ec unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
-																			data-id="d3976ec" data-element_type="widget"
+																			class="elementor-element elementor-element-50e7a0f unicamp-icon-box-style-04 unicamp-view-default unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-icon-box"
+																			data-id="50e7a0f" data-element_type="widget"
 																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 																			data-widget_type="tm-icon-box.default">
 																			<div class="elementor-widget-container">
-																				<div class="tm-icon-box unicamp-box has-link">
+																				<div class="tm-icon-box unicamp-box">
 																					<div class="unicamp-graphic-box icon-box-wrapper">
 																						<div class="unicamp-graphic-element unicamp-icon-wrap">
 																							<div class="unicamp-icon-view first">
@@ -1476,16 +1048,16 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							</div>
 
 																							<div class="tm-button-wrapper">
-																								<a class="tm-button style-flat tm-button-xs icon-right"
-																									href="campus-life/index.html"> <div
-																										class="button-content-wrapper">
+																								<div
+																									class="tm-button style-flat tm-button-xs icon-right">
+																									<div class="button-content-wrapper">
 
 																										<span class="button-text">Learn more</span>
 
 																										<span class="button-icon">
 																											<i class="fas fa-long-arrow-right"></i> </span>
 																									</div>
-																								</a> </div>
+																								</div> </div>
 																						</div>
 																					</div>
 
@@ -1495,265 +1067,67 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																</div>
 															</div>
 														</section>
+														<div
+															class="elementor-element elementor-element-475fcd8 elementor-widget elementor-widget-spacer"
+															data-id="475fcd8" data-element_type="widget"
+															data-widget_type="spacer.default">
+															<div class="elementor-widget-container">
+																<div class="elementor-spacer">
+																	<div class="elementor-spacer-inner"></div>
+																</div>
+															</div>
+														</div>
 													</div>
 												</div>
 											</div>
 										</section>
 										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-b7da4d4 elementor-section-content-middle elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-content-align-center elementor-section-column-vertical-align-stretch"
-											data-id="b7da4d4" data-element_type="section"
+											class="elementor-section elementor-top-section elementor-element elementor-element-4a9fc82 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+											data-id="4a9fc82" data-element_type="section"
 											data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 											<div class="elementor-container elementor-column-gap-extended">
 												<div
-													class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-43b14b5"
-													data-id="43b14b5" data-element_type="column">
+													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d1be61"
+													data-id="0d1be61" data-element_type="column">
 													<div class="elementor-widget-wrap elementor-element-populated">
 														<div
-															class="elementor-element elementor-element-7832218 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="7832218" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<h3 class="heading-primary elementor-heading-title">We're
-																			UniCamp<br />
-																			<mark>& We're Diffirent</mark></h3> </div>
-
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-aad2b85 elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="aad2b85" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<div class="heading-primary elementor-heading-title">We are
-																			making learning more <mark>relevant</mark> and
-																			<mark>transformational.</mark> </div> </div>
-
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div
-													class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2b7b6da"
-													data-id="2b7b6da" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-ff26541 elementor-align-center unicamp-popup-video-button-effect-wave-pulse unicamp-popup-video-button-style-01 unicamp-popup-video-button-size-nm elementor-invisible elementor-widget elementor-widget-tm-popup-video"
-															data-id="ff26541" data-element_type="widget"
+															class="elementor-element elementor-element-6c808c8 unicamp-popup-video-button-effect-wave-pulse unicamp-popup-video-poster-background-yes unicamp-animation-zoom-in unicamp-popup-video-button-style-01 unicamp-popup-video-button-size-nm elementor-invisible elementor-widget elementor-widget-tm-popup-video"
+															data-id="6c808c8" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-popup-video.default">
 															<div class="elementor-widget-container">
 																<div
-																	class="tm-popup-video type-button tm-popup-video-icon-play">
+																	class="tm-popup-video type-poster tm-popup-video-icon-play">
 																	<a class="video-link unicamp-box link-secret"
 																		href="https://www.youtube.com/watch?v=XHOmBV4js_E">
 
-																		<div class="video-button">
-																			<div class="video-button-play">
-																				<div class="video-button-mask video-mask-wave-pulse"></div>
+																		<div class="video-poster">
+																			<div class="unicamp-image">
+																				<img decoding="async" loading="lazy"
+																					src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/popup-video-poster.jpg"
+																					alt="popup-video-poster" /> </div>
 
-																				<div class="video-play video-play-icon">
-																					<span class="icon"></span>
+																			<div class="video-overlay"></div>
+
+																			<div class="video-button">
+																				<div class="video-button-play">
+																					<div class="video-button-mask video-mask-wave-pulse"></div>
+
+																					<div class="video-play video-play-icon">
+																						<span class="icon"></span>
+																					</div>
 																				</div>
-																			</div>
 
+																			</div>
 																		</div>
 
 																	</a>
 																</div>
 															</div>
 														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-66e5444 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="66e5444" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d73e7e"
-													data-id="0d73e7e" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<section
-															class="elementor-section elementor-inner-section elementor-element elementor-element-e944c10 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-															data-id="e944c10" data-element_type="section">
-															<div class="elementor-container elementor-column-gap-extended">
-																<div
-																	class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2dd0779"
-																	data-id="2dd0779" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-248e9bc elementor-invisible elementor-widget elementor-widget-tm-heading"
-																			data-id="248e9bc" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-																			data-widget_type="tm-heading.default">
-																			<div class="elementor-widget-container">
-																				<div class="tm-modern-heading">
-
-																					<div class="heading-primary-wrap">
-																						<h2
-																							class="heading-primary elementor-heading-title">Studying
-																							at UniCamp</h2> </div>
-
-																					<div class="heading-divider"></div>
-
-																					<div class="heading-description-wrap">
-																						<div class="heading-description">
-																							Leaders in a complex world </div>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</section>
-														<section
-															class="elementor-section elementor-inner-section elementor-element elementor-element-5a3faaa elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-															data-id="5a3faaa" data-element_type="section">
-															<div class="elementor-container elementor-column-gap-extended">
-																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7d693c0"
-																	data-id="7d693c0" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-fecc97b unicamp-animation-zoom-in unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-image-box"
-																			data-id="fecc97b" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-																			data-widget_type="tm-image-box.default">
-																			<div class="elementor-widget-container">
-																				<a class="tm-image-box unicamp-box style-04 link-secret"
-																					href="undergraduate-admission/index.html"> <div
-																						class="unicamp-graphic-box content-wrap">
-
-																						<div class="unicamp-graphic-element image-wrap">
-																							<div class="unicamp-image image">
-																								<img loading="lazy" decoding="async" loading="lazy"
-																									src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/02/library-image-box-01.jpg"
-																									alt="library-image-box-01" width="480" height="299" />
-																							</div>
-
-																						</div>
-
-																						<div class="unicamp-graphic-content box-caption-wrap">
-																							<div class="box-caption">
-																								<h3 class="title">Undergraduate Admissions</h3>
-																								<div class="description">
-																									Whatever you're seeking from your college experience,
-																									you'll find it at UniCamp. </div>
-
-																							</div>
-																						</div>
-
-																					</div>
-																				</a> </div>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a8b6ce5"
-																	data-id="a8b6ce5" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-de12a11 unicamp-animation-zoom-in unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-image-box"
-																			data-id="de12a11" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-																			data-widget_type="tm-image-box.default">
-																			<div class="elementor-widget-container">
-																				<a class="tm-image-box unicamp-box style-04 link-secret"
-																					href="admissions/index.html"> <div
-																						class="unicamp-graphic-box content-wrap">
-
-																						<div class="unicamp-graphic-element image-wrap">
-																							<div class="unicamp-image image">
-																								<img loading="lazy" decoding="async" loading="lazy"
-																									src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/02/library-image-box-02-480x299.jpg"
-																									alt="library-image-box-02" width="480" height="299" />
-																							</div>
-
-																						</div>
-
-																						<div class="unicamp-graphic-content box-caption-wrap">
-																							<div class="box-caption">
-																								<h3 class="title">Graduate Admissions</h3>
-																								<div class="description">
-																									Ready to prepare for professional life, boost your
-																									career, push yourself to new frontiers of knowledge.
-																								</div>
-
-																							</div>
-																						</div>
-
-																					</div>
-																				</a> </div>
-																		</div>
-																	</div>
-																</div>
-																<div
-																	class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ebb6bf3"
-																	data-id="ebb6bf3" data-element_type="column">
-																	<div class="elementor-widget-wrap elementor-element-populated">
-																		<div
-																			class="elementor-element elementor-element-99a99b5 unicamp-animation-zoom-in unicamp-graphic-position-top elementor-invisible elementor-widget elementor-widget-tm-image-box"
-																			data-id="99a99b5" data-element_type="widget"
-																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-																			data-widget_type="tm-image-box.default">
-																			<div class="elementor-widget-container">
-																				<a class="tm-image-box unicamp-box style-04 link-secret"
-																					href="#"> <div class="unicamp-graphic-box content-wrap">
-
-																						<div class="unicamp-graphic-element image-wrap">
-																							<div class="unicamp-image image">
-																								<img loading="lazy" decoding="async" loading="lazy"
-																									src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/02/library-image-box-03.jpg"
-																									alt="library-image-box-03" width="480" height="299" />
-																							</div>
-
-																						</div>
-
-																						<div class="unicamp-graphic-content box-caption-wrap">
-																							<div class="box-caption">
-																								<h3 class="title">Continuing Education</h3>
-																								<div class="description">
-																									Strive to reach out to diverse populations with
-																									challenging, and rewarding programs. </div>
-
-																							</div>
-																						</div>
-
-																					</div>
-																				</a> </div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</section>
-													</div>
-												</div>
-											</div>
-										</section>
-										<section
-											class="elementor-section elementor-top-section elementor-element elementor-element-43ef58c elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="43ef58c" data-element_type="section"
-											data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17155f2"
-													data-id="17155f2" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
 														<div
-															class="elementor-element elementor-element-5621f29 elementor-widget elementor-widget-spacer"
-															data-id="5621f29" data-element_type="widget"
+															class="elementor-element elementor-element-7a49b17 elementor-widget elementor-widget-spacer"
+															data-id="7a49b17" data-element_type="widget"
 															data-widget_type="spacer.default">
 															<div class="elementor-widget-container">
 																<div class="elementor-spacer">
@@ -1761,158 +1135,202 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																</div>
 															</div>
 														</div>
+														<section
+															class="elementor-section elementor-inner-section elementor-element elementor-element-9cc5cc5 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+															data-id="9cc5cc5" data-element_type="section">
+															<div class="elementor-container elementor-column-gap-extended">
+																<div
+																	class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5e582ac"
+																	data-id="5e582ac" data-element_type="column">
+																	<div class="elementor-widget-wrap elementor-element-populated">
+																		<div
+																			class="elementor-element elementor-element-0cc0619 unicamp-counter-style-02 elementor-invisible elementor-widget elementor-widget-tm-counter"
+																			data-id="0cc0619" data-element_type="widget"
+																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
+																			data-widget_type="tm-counter.default">
+																			<div class="elementor-widget-container">
+																				<div class="unicamp-box unicamp-graphic-box tm-counter"
+																					data-counter="{&quot;from&quot;:0,&quot;to&quot;:1925,&quot;duration&quot;:2000,&quot;separator&quot;:&quot;&quot;}">
+
+																					<div class="unicamp-graphic-content counter-content">
+																						<div class="counter-number-wrap">
+																							<span class="counter-number-prefix"></span>
+																							<span class="counter-number">0</span>
+																							<span class="counter-number-suffix"></span>
+																						</div>
+
+																						<div class="heading-wrap">
+																							<h3 class="counter-heading">Opened in</h3> </div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div
+																	class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-fe986d5"
+																	data-id="fe986d5" data-element_type="column">
+																	<div class="elementor-widget-wrap elementor-element-populated">
+																		<div
+																			class="elementor-element elementor-element-6cc3800 unicamp-counter-style-02 elementor-invisible elementor-widget elementor-widget-tm-counter"
+																			data-id="6cc3800" data-element_type="widget"
+																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
+																			data-widget_type="tm-counter.default">
+																			<div class="elementor-widget-container">
+																				<div class="unicamp-box unicamp-graphic-box tm-counter"
+																					data-counter="{&quot;from&quot;:0,&quot;to&quot;:5460,&quot;duration&quot;:2000,&quot;separator&quot;:&quot;&quot;}">
+
+																					<div class="unicamp-graphic-content counter-content">
+																						<div class="counter-number-wrap">
+																							<span class="counter-number-prefix"></span>
+																							<span class="counter-number">0</span>
+																							<span class="counter-number-suffix"></span>
+																						</div>
+
+																						<div class="heading-wrap">
+																							<h3 class="counter-heading">Students</h3> </div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div
+																	class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f039c9b"
+																	data-id="f039c9b" data-element_type="column">
+																	<div class="elementor-widget-wrap elementor-element-populated">
+																		<div
+																			class="elementor-element elementor-element-7b8638a unicamp-counter-style-02 elementor-invisible elementor-widget elementor-widget-tm-counter"
+																			data-id="7b8638a" data-element_type="widget"
+																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
+																			data-widget_type="tm-counter.default">
+																			<div class="elementor-widget-container">
+																				<div class="unicamp-box unicamp-graphic-box tm-counter"
+																					data-counter="{&quot;from&quot;:0,&quot;to&quot;:95,&quot;duration&quot;:2000,&quot;separator&quot;:&quot;&quot;}">
+
+																					<div class="unicamp-graphic-content counter-content">
+																						<div class="counter-number-wrap">
+																							<span class="counter-number-prefix"></span>
+																							<span class="counter-number">0</span>
+																							<span class="counter-number-suffix">%</span>
+																						</div>
+
+																						<div class="heading-wrap">
+																							<h3 class="counter-heading">Graduation rate of our
+																								student</h3> </div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+																<div
+																	class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1d3f868"
+																	data-id="1d3f868" data-element_type="column">
+																	<div class="elementor-widget-wrap elementor-element-populated">
+																		<div
+																			class="elementor-element elementor-element-308ae03 unicamp-counter-style-02 elementor-invisible elementor-widget elementor-widget-tm-counter"
+																			data-id="308ae03" data-element_type="widget"
+																			data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
+																			data-widget_type="tm-counter.default">
+																			<div class="elementor-widget-container">
+																				<div class="unicamp-box unicamp-graphic-box tm-counter"
+																					data-counter="{&quot;from&quot;:0,&quot;to&quot;:1670,&quot;duration&quot;:2000,&quot;separator&quot;:&quot;&quot;}">
+
+																					<div class="unicamp-graphic-content counter-content">
+																						<div class="counter-number-wrap">
+																							<span class="counter-number-prefix"></span>
+																							<span class="counter-number">0</span>
+																							<span class="counter-number-suffix"></span>
+																						</div>
+
+																						<div class="heading-wrap">
+																							<h3 class="counter-heading">Faculty</h3> </div>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</section>
+													</div>
+												</div>
+											</div>
+										</section>
+										<section
+											class="elementor-section elementor-top-section elementor-element elementor-element-8dbd39b elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+											data-id="8dbd39b" data-element_type="section">
+											<div class="elementor-container elementor-column-gap-extended">
+												<div
+													class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-174c9b7"
+													data-id="174c9b7" data-element_type="column">
+													<div class="elementor-widget-wrap elementor-element-populated">
 														<div
-															class="elementor-element elementor-element-2987ccb elementor-invisible elementor-widget elementor-widget-tm-heading"
-															data-id="2987ccb" data-element_type="widget"
+															class="elementor-element elementor-element-a82fbe8 elementor-invisible elementor-widget elementor-widget-tm-heading"
+															data-id="a82fbe8" data-element_type="widget"
 															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
 															data-widget_type="tm-heading.default">
 															<div class="elementor-widget-container">
 																<div class="tm-modern-heading">
 
 																	<div class="heading-primary-wrap">
-																		<h2 class="heading-primary elementor-heading-title">Upcoming
-																			Events</h2> </div>
+																		<h2 class="heading-primary elementor-heading-title">Visiting
+																			UniCamp</h2> </div>
 
 																	<div class="heading-divider"></div>
 
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-8722d54 unicamp-animation-zoom-in elementor-widget elementor-widget-tm-event"
-															data-id="8722d54" data-element_type="widget"
-															data-settings="{&quot;grid_columns&quot;:4,&quot;grid_columns_tablet&quot;:2,&quot;grid_columns_mobile&quot;:1}"
-															data-widget_type="tm-event.default">
-															<div class="elementor-widget-container">
-																<div class="unicamp-grid-wrapper unicamp-event style-metro-01"
-																	data-grid="{&quot;type&quot;:&quot;grid&quot;,&quot;columns&quot;:4,&quot;columnsTablet&quot;:2,&quot;columnsMobile&quot;:1,&quot;gutter&quot;:30}">
-																	<div class="unicamp-grid lazy-grid">
-																		<div class="grid-sizer"></div>
-
-																		<div
-																			class="grid-item post-item post-173 tp_event type-tp_event status-publish has-post-thumbnail hentry event-speaker-bellezza event-speaker-charlie event-speaker-emerson event-speaker-lucinda event-speaker-marabel event-speaker-orabelle tp_event_category-reading tp_event_tag-career tp_event_tag-online-learning tp_event_tag-research"
-																			data-width="2">
-																			<a
-																				href="events/roadmap-to-the-sustainable-development-goals/index.html"
-																				class="post-wrapper unicamp-box link-secret">
-																				<div class="post-thumbnail unicamp-image">
-																					<img loading="lazy" decoding="async" loading="lazy"
-																						src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/event-12-690x690.jpg"
-																						alt="event-12" width="690" height="690" /> </div>
-																				<div class="event-info">
-																					<div class="event-caption">
-																						<div class="event-start-date">
-																							<span>Apr 19</span>
-																						</div>
-
-																						<h3 class="event-title post-title-2-rows"><span>Roadmap to
-																								the Sustainable Development Goals</span></h3>
-
-																						<div class="event-meta">
-																							<div class="meta-list">
-																								<div
-																									class="meta-item event-time">2:30 pm - 3:30 pm</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</a>
-																		</div>
-																		<div
-																			class="grid-item post-item post-172 tp_event type-tp_event status-publish has-post-thumbnail hentry event-speaker-charlie event-speaker-emerson event-speaker-lucinda event-speaker-marabel event-speaker-orabelle event-speaker-savanna-walker tp_event_category-reading tp_event_tag-career tp_event_tag-online-learning tp_event_tag-research"
-																			data-width="1">
-																			<a
-																				href="events/research-in-distance-education-conference-2021/index.html"
-																				class="post-wrapper unicamp-box link-secret">
-																				<div class="post-thumbnail unicamp-image">
-																					<img loading="lazy" decoding="async" loading="lazy"
-																						src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/event-11-480x290.jpg"
-																						alt="event-11" width="480" height="290" /> </div>
-																				<div class="event-info">
-																					<div class="event-caption">
-																						<div class="event-start-date">
-																							<span>Dec 28</span>
-																						</div>
-
-																						<h3 class="event-title post-title-2-rows"><span>Research
-																								in Distance Education (RIDE) conference 2021</span></h3>
-
-																						<div class="event-meta">
-																							<div class="meta-list">
-																								<div
-																									class="meta-item event-time">3:30 pm - 4:30 pm</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</a>
-																		</div>
-																		<div
-																			class="grid-item post-item post-171 tp_event type-tp_event status-publish has-post-thumbnail hentry event-speaker-charlie event-speaker-emerson event-speaker-lucinda event-speaker-marabel event-speaker-orabelle event-speaker-savanna-walker tp_event_category-reading tp_event_tag-career tp_event_tag-online-learning tp_event_tag-research"
-																			data-width="1">
-																			<a
-																				href="events/the-role-of-conflict-in-a-political-account-of-common-goods/index.html"
-																				class="post-wrapper unicamp-box link-secret">
-																				<div class="post-thumbnail unicamp-image">
-																					<img loading="lazy" decoding="async" loading="lazy"
-																						src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/event-10-480x290.jpg"
-																						alt="event-10" width="480" height="290" /> </div>
-																				<div class="event-info">
-																					<div class="event-caption">
-																						<div class="event-start-date">
-																							<span>Aug 20</span>
-																						</div>
-
-																						<h3 class="event-title post-title-2-rows"><span>The Role
-																								of Conflict in a Political Account of Common
-																								Goods</span></h3>
-
-																						<div class="event-meta">
-																							<div class="meta-list">
-																								<div
-																									class="meta-item event-time">10:30 am - 11:30 am</div>
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																			</a>
-																		</div>
+																	<div class="heading-description-wrap">
+																		<div class="heading-description">
+																			<p class="p1"><span class="s1">Studying business at UniCamp
+																					is a great way to enhance your career. In today’s
+																					competitive environment, professionals need the skills to
+																					adapt to an ever-changing business world.</span></p> </div>
 																	</div>
 																</div>
 															</div>
 														</div>
 														<div
-															class="elementor-element elementor-element-eac0ac0 elementor-align-center elementor-mobile-align-left elementor-invisible elementor-widget elementor-widget-tm-button"
-															data-id="eac0ac0" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="tm-button.default">
+															class="elementor-element elementor-element-7a13b45 bullets-v-align-below elementor-widget elementor-widget-tm-image-carousel"
+															data-id="7a13b45" data-element_type="widget"
+															data-settings="{&quot;swiper_items&quot;:&quot;auto&quot;,&quot;swiper_items_tablet&quot;:&quot;1&quot;,&quot;swiper_items_mobile&quot;:&quot;1&quot;}"
+															data-widget_type="tm-image-carousel.default">
 															<div class="elementor-widget-container">
-																<div class="tm-button-wrapper">
-																	<a href="events/index.html"
-																		class="tm-button-link tm-button style-flat tm-button-nm icon-right"
-																		role="button">
-																		<div class="button-content-wrapper">
 
-																			<span class="button-text">More UniCamp events</span>
+																<div class="tm-swiper tm-slider-widget nav-style-03"
+																	data-lg-items="auto" data-lg-gutter="30" data-md-items="1"
+																	data-sm-items="1" data-nav="1" data-nav-aligned-by="slider"
+																	data-loop="1" data-simulate-touch="1" data-speed="8000"
+																	data-autoplay="1" data-effect="slide">
+																	<div class="swiper-inner">
 
-																			<span class="button-icon">
-																				<i class="fas fa-long-arrow-right"></i> </span>
+																		<div class="swiper">
+																			<div class="swiper-wrapper">
+																				<div class="swiper-slide">
+																					<div class="image">
+																						<img loading="lazy" decoding="async" loading="lazy"
+																							src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/about-slider-image-01.jpg"
+																							alt="about-slider-image-01" width="690" height="400" />
+																					</div>
+																				</div>
+																				<div class="swiper-slide">
+																					<div class="image">
+																						<img loading="lazy" decoding="async" loading="lazy"
+																							src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/about-slider-image-02.jpg"
+																							alt="about-slider-image-02" width="330" height="400" />
+																					</div>
+																				</div>
+																				<div class="swiper-slide">
+																					<div class="image">
+																						<img loading="lazy" decoding="async" loading="lazy"
+																							src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/03/about-slider-image-03.jpg"
+																							alt="about-slider-image-03" width="330" height="400" />
+																					</div>
+																				</div>
+																			</div>
 																		</div>
 
-																	</a>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-7cb2514 elementor-widget elementor-widget-spacer"
-															data-id="7cb2514" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
+																	</div>
 																</div>
 															</div>
 														</div>
@@ -1930,452 +1348,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 				</div>
 			</div><!-- /.content-wrapper -->
 
-			<div id="page-footer-wrapper" class="page-footer-wrapper">
-				<div class="page-footer elementor-footer" id="page-footer">
-					<div data-elementor-type="footer" data-elementor-id="2979"
-						class="elementor elementor-2979 elementor-location-footer"
-						data-elementor-post-type="elementor_library">
-						<section
-							class="elementor-section elementor-top-section elementor-element elementor-element-0eda605 elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-							data-id="0eda605" data-element_type="section"
-							data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-container elementor-column-gap-extended">
-								<div
-									class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-843ebc0"
-									data-id="843ebc0" data-element_type="column">
-									<div class="elementor-widget-wrap elementor-element-populated">
-										<div
-											class="elementor-element elementor-element-92e3ec4 elementor-widget elementor-widget-spacer"
-											data-id="92e3ec4" data-element_type="widget"
-											data-widget_type="spacer.default">
-											<div class="elementor-widget-container">
-												<div class="elementor-spacer">
-													<div class="elementor-spacer-inner"></div>
-												</div>
-											</div>
-										</div>
-										<div
-											class="elementor-element elementor-element-b62a5de elementor-invisible elementor-widget elementor-widget-tm-heading"
-											data-id="b62a5de" data-element_type="widget"
-											data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-											data-widget_type="tm-heading.default">
-											<div class="elementor-widget-container">
-												<div class="tm-modern-heading">
-
-													<div class="heading-primary-wrap">
-														<h3 class="heading-primary elementor-heading-title">Get the latest
-															<mark>UniCamp news</mark> delivered to you inbox</h3> </div>
-
-												</div>
-											</div>
-										</div>
-										<section
-											class="elementor-section elementor-inner-section elementor-element elementor-element-94ebccb elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-content-align-center elementor-section-column-vertical-align-stretch"
-											data-id="94ebccb" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b4d2df2"
-													data-id="b4d2df2" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-cb0cc7d unicamp-mailchimp-form-style-01 unicamp-button-align-stretch elementor-invisible elementor-widget elementor-widget-tm-mailchimp-form"
-															data-id="cb0cc7d" data-element_type="widget"
-															data-settings="{&quot;_animation&quot;:&quot;unicampFadeInUp&quot;}"
-															data-widget_type="tm-mailchimp-form.default">
-															<div class="elementor-widget-container">
-																<div class="unicamp-mailchimp-form">
-																	<script>(function() {
-                                                                                window.mc4wp = window.mc4wp || {
-                                                                                    listeners: [],
-                                                                                    forms: {
-                                                                                        on: function(evt, cb) {
-                                                                                            window.mc4wp.listeners.push(
-                                                                                                {
-                                                                                                    event   : evt,
-                                                                                                    callback: cb
-                                                                                                }
-                                                                                            );
-                                                                                        }
-                                                                                    }
-                                                                                }
-                                                                            })();
-                                                                        </script><!-- Mailchimp for WordPress v4.10.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form
-																		id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1259"
-																		method="post" data-id="1259" data-name="Subscribe"><div
-																			class="mc4wp-form-fields"><div class="form-item-wrap">
-																				<div class="form-group form-item-email">
-																					<input type="email" name="EMAIL" placeholder="Your e-mail"
-																						required class="form-input" />
-																				</div>
-
-																				<div class="form-submit">
-																					<button class="button-submit" type="submit">
-																						<span class="button-text">Subscribe</span>
-																						<span class="button-icon form-icon"></span>
-																					</button>
-																				</div>
-																			</div></div><label style="display: none !important;">Leave
-																			this field empty if you're human: <input type="text"
-																				name="_mc4wp_honeypot" value tabindex="-1"
-																				autocomplete="off" /></label><input type="hidden"
-																			name="_mc4wp_timestamp" value="1760215605" /><input
-																			type="hidden" name="_mc4wp_form_id" value="1259" /><input
-																			type="hidden" name="_mc4wp_form_element_id"
-																			value="mc4wp-form-1" /><div
-																			class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-										<div
-											class="elementor-element elementor-element-ff78b7a elementor-widget elementor-widget-spacer"
-											data-id="ff78b7a" data-element_type="widget"
-											data-widget_type="spacer.default">
-											<div class="elementor-widget-container">
-												<div class="elementor-spacer">
-													<div class="elementor-spacer-inner"></div>
-												</div>
-											</div>
-										</div>
-										<section
-											class="elementor-section elementor-inner-section elementor-element elementor-element-ad41804 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="ad41804" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-895dc14"
-													data-id="895dc14" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-f98bdb6 elementor-widget elementor-widget-spacer"
-															data-id="f98bdb6" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-a71d530 elementor-widget elementor-widget-image"
-															data-id="a71d530" data-element_type="widget"
-															data-widget_type="image.default">
-															<div class="elementor-widget-container">
-																<a href="index.html">
-																	<img width="448" height="136"
-																		src="../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png"
-																		class="attachment-full size-full wp-image-114" alt
-																		srcset="https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png 448w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo-300x91.png 300w"
-																		sizes="(max-width: 448px) 100vw, 448px" /> </a>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-9f12156 elementor-widget elementor-widget-tm-heading"
-															data-id="9f12156" data-element_type="widget"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<div class="heading-primary elementor-heading-title">UniCamp
-																			transforms lives through accessible, student-centered,
-																			high-quality education and meets learners’ needs for a
-																			lifetime.</div> </div>
-
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div
-													class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1cc2d58"
-													data-id="1cc2d58" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-8c02a3b elementor-widget elementor-widget-spacer"
-															data-id="8c02a3b" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-eb8f2f3 elementor-widget elementor-widget-tm-heading"
-															data-id="eb8f2f3" data-element_type="widget"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<h4 class="heading-primary elementor-heading-title">About</h4>
-																	</div>
-
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-bb0ab89 unicamp-list-layout-block elementor-widget elementor-widget-tm-list"
-															data-id="bb0ab89" data-element_type="widget"
-															data-widget_type="tm-list.default">
-															<div class="elementor-widget-container">
-																<div class="unicamp-list">
-																	<div class="item elementor-repeater-item-de25e53">
-
-																		<a class="link" href="about/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">About Us</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-4f48939">
-
-																		<a class="link" href="courses/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Courses</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-882f063">
-
-																		<a class="link" href="blog/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">News</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-9052523">
-
-																		<a class="link" href="events/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Events</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-450b61a">
-
-																		<a class="link" href="contact/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Contact</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div
-													class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7c0e109"
-													data-id="7c0e109" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-ce82575 elementor-widget elementor-widget-spacer"
-															data-id="ce82575" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-9c9988d elementor-widget elementor-widget-tm-heading"
-															data-id="9c9988d" data-element_type="widget"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<h4 class="heading-primary elementor-heading-title">Links</h4>
-																	</div>
-
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-fd84823 unicamp-list-layout-block elementor-widget elementor-widget-tm-list"
-															data-id="fd84823" data-element_type="widget"
-															data-widget_type="tm-list.default">
-															<div class="elementor-widget-container">
-																<div class="unicamp-list">
-																	<div class="item elementor-repeater-item-de25e53">
-
-																		<a class="link" href="students/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Students</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-4f48939">
-
-																		<a class="link" href="faculty-staffs/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Faculty &amp; Staffs</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-882f063">
-
-																		<a class="link" href="alumni/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Alumni</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-9052523">
-
-																		<a class="link" href="visit/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Visit</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																	<div class="item elementor-repeater-item-450b61a">
-
-																		<a class="link" href="media-relations/index.html">
-																			<div class="list-header">
-																				<div class="text-wrap">
-																					<div class="text">Media Relations</div>
-																				</div>
-																			</div>
-
-																		</a>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-												<div
-													class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1bb6fc6"
-													data-id="1bb6fc6" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-6b82408 elementor-widget elementor-widget-spacer"
-															data-id="6b82408" data-element_type="widget"
-															data-widget_type="spacer.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-spacer">
-																	<div class="elementor-spacer-inner"></div>
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-2ca4179 elementor-widget elementor-widget-tm-heading"
-															data-id="2ca4179" data-element_type="widget"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<h4 class="heading-primary elementor-heading-title">Connect
-																			Us</h4> </div>
-
-																</div>
-															</div>
-														</div>
-														<div
-															class="elementor-element elementor-element-d19899d elementor-widget elementor-widget-tm-social-networks"
-															data-id="d19899d" data-element_type="widget"
-															data-widget_type="tm-social-networks.default">
-															<div class="elementor-widget-container">
-																<div class="tm-social-networks style-large-icons layout-inline">
-																	<ul class="list"> <li
-																			class="item elementor-repeater-item-a4ebc41">
-																			<a class="link hint--bounce hint--top hint--white"
-																				aria-label="Twitter" href="#" target="_blank"
-																				rel="nofollow">
-																				<i class="link-icon fab fa-twitter"></i> </a>
-																		</li>
-																		<li class="item elementor-repeater-item-3a62d63">
-																			<a class="link hint--bounce hint--top hint--white"
-																				aria-label="Facebook" href="#" target="_blank"
-																				rel="nofollow">
-																				<i class="link-icon fab fa-facebook-f"></i> </a>
-																		</li>
-																		<li class="item elementor-repeater-item-5840c98">
-																			<a class="link hint--bounce hint--top hint--white"
-																				aria-label="Instagram" href="#" target="_blank"
-																				rel="nofollow">
-																				<i class="link-icon fab fa-instagram"></i> </a>
-																		</li>
-																		<li class="item elementor-repeater-item-ecbdfc2">
-																			<a class="link hint--bounce hint--top hint--white"
-																				aria-label="Youtube Chanel" href="#" target="_blank"
-																				rel="nofollow">
-																				<i class="link-icon fab fa-youtube"></i> </a>
-																		</li>
-																	</ul> </div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-										<section
-											class="elementor-section elementor-inner-section elementor-element elementor-element-1dca345 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-											data-id="1dca345" data-element_type="section">
-											<div class="elementor-container elementor-column-gap-extended">
-												<div
-													class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3ea3f1d"
-													data-id="3ea3f1d" data-element_type="column">
-													<div class="elementor-widget-wrap elementor-element-populated">
-														<div
-															class="elementor-element elementor-element-78ee66b elementor-widget elementor-widget-tm-heading"
-															data-id="78ee66b" data-element_type="widget"
-															data-widget_type="tm-heading.default">
-															<div class="elementor-widget-container">
-																<div class="tm-modern-heading">
-
-																	<div class="heading-primary-wrap">
-																		<div class="heading-primary elementor-heading-title">&copy;
-																			2021 UniCamp. All Rights Reserved</div> </div>
-
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</section>
-									</div>
-								</div>
-							</div>
-						</section>
-					</div>
-				</div>
-			</div>
+			<x-footer/>
 
 		</div><!-- /.site -->
 
@@ -2390,18 +1363,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 		<script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/main\/*"},{"not":{"href_matches":["\/main\/wp-*.php","\/main\/wp-admin\/*","\/main\/wp-content\/uploads\/sites\/2\/*","\/main\/wp-content\/*","\/main\/wp-content\/plugins\/*","\/main\/wp-content\/themes\/unicamp-child-demo\/*","\/main\/wp-content\/themes\/unicamp\/*","\/main\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
-		<script>(function() {function maybePrefixUrlField () {
-  const value = this.value.trim()
-  if (value !== '' && value.indexOf('http') !== 0) {
-    this.value = 'http://' + value
-  }
-}
-
-const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
-for (let j = 0; j < urlFields.length; j++) {
-  urlFields[j].addEventListener('blur', maybePrefixUrlField)
-}
-})();</script> <div class="woosc-popup woosc-search">
+		<div class="woosc-popup woosc-search">
 			<div class="woosc-popup-inner">
 				<div class="woosc-popup-content">
 					<div class="woosc-popup-content-inner">
@@ -2435,39 +1397,39 @@ for (let j = 0; j < urlFields.length; j++) {
 						Select the fields to be shown. Others will be hidden. Drag and drop to
 						rearrange the order. <ul class="woosc-settings-fields">
 							<li class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="wqbf" checked /><span
+									class="woosc-settings-field" value="aph9" checked /><span
 									class="move">Image</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="3b9y" checked /><span
+									class="woosc-settings-field" value="w1o6" checked /><span
 									class="move">SKU</span></li><li class="woosc-settings-field-li"><input
-									type="checkbox" class="woosc-settings-field" value="0n1e"
+									type="checkbox" class="woosc-settings-field" value="4ary"
 									checked /><span class="move">Rating</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="ux70" checked /><span
+									class="woosc-settings-field" value="sn48" checked /><span
 									class="move">Price</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="cf0s" checked /><span
+									class="woosc-settings-field" value="fyyy" checked /><span
 									class="move">Stock</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="xk55" checked /><span
+									class="woosc-settings-field" value="5cmv" checked /><span
 									class="move">Availability</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="oggn" checked /><span
+									class="woosc-settings-field" value="qe4w" checked /><span
 									class="move">Add to cart</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="fmuw" checked /><span
+									class="woosc-settings-field" value="mxtf" checked /><span
 									class="move">Description</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="rf0a" checked /><span
+									class="woosc-settings-field" value="kdwj" checked /><span
 									class="move">Content</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="25m9" checked /><span
+									class="woosc-settings-field" value="4mkf" checked /><span
 									class="move">Weight</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="ldz7" checked /><span
+									class="woosc-settings-field" value="rvou" checked /><span
 									class="move">Dimensions</span></li><li
 								class="woosc-settings-field-li"><input type="checkbox"
-									class="woosc-settings-field" value="rvjg" checked /><span
+									class="woosc-settings-field" value="0tfw" checked /><span
 									class="move">Additional information</span></li> </ul>
 					</div>
 				</div>
@@ -2577,42 +1539,42 @@ for (let j = 0; j < urlFields.length; j++) {
 				</div>
 
 				<div class="quick-option-list">
-					<a href="index.html"
+					<a href="../index.html"
 						class="hint--bounce hint--top"
 						aria-label="University 01">
 						<div class="unicamp-skeleton-item"
 							data-src="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/preview/university-01.jpg"
 							data-alt="University 01"></div>
 					</a>
-					<a href="university-02/index.html"
+					<a href="../university-02/index.html"
 						class="hint--bounce hint--top"
 						aria-label="University 02">
 						<div class="unicamp-skeleton-item"
 							data-src="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/preview/university-02.jpg"
 							data-alt="University 02"></div>
 					</a>
-					<a href="university-03/index.html"
+					<a href="../university-03/index.html"
 						class="hint--bounce hint--top"
 						aria-label="University 03">
 						<div class="unicamp-skeleton-item"
 							data-src="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/preview/university-03.jpg"
 							data-alt="University 03"></div>
 					</a>
-					<a href="university-04/index.html"
+					<a href="../university-04/index.html"
 						class="hint--bounce hint--top"
 						aria-label="University 04">
 						<div class="unicamp-skeleton-item"
 							data-src="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/preview/university-04.jpg"
 							data-alt="University 04"></div>
 					</a>
-					<a href="college-01/index.html"
+					<a href="../college-01/index.html"
 						class="hint--bounce hint--top"
 						aria-label="College 01">
 						<div class="unicamp-skeleton-item"
 							data-src="https://unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp-child-demo/assets/images/preview/college-01.jpg"
 							data-alt="College 01"></div>
 					</a>
-					<a href="college-02/index.html"
+					<a href="../college-02/index.html"
 						class="hint--bounce hint--top"
 						aria-label="College 02">
 						<div class="unicamp-skeleton-item"
@@ -2716,9 +1678,9 @@ for (let j = 0; j < urlFields.length; j++) {
 			<div class="inner">
 				<div class="page-mobile-menu-header">
 					<div class="page-mobile-popup-logo page-mobile-menu-logo">
-						<a href="index.html" rel="home">
+						<a href="../index.html" rel="home">
 							<img
-								src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png"
+								src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png"
 								alt="Main"
 								width="165" />
 						</a>
@@ -2733,179 +1695,180 @@ for (let j = 0; j < urlFields.length; j++) {
 
 				<div class="page-mobile-menu-content">
 					<ul id="mobile-menu-primary" class="menu__container"><li
-							class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-53 level-1"><a
-								href="index.html" onClick="return true"><div
+							class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-53 level-1"><a
+								href="../index.html" onClick="return true"><div
 									class="menu-item-wrap"><span class="menu-item-title">Home</span><span
 										class="toggle-sub-menu"> </span></div></a><ul
 								class="sub-menu children simple-menu"> <li
-									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2136 current_page_item menu-item-2161"><a
-										href="index.html" onClick="return true"><div
+									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2161"><a
+										href="../index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">University
 												01</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2268"><a
-										href="university-02/index.html" onClick="return true"><div
+										href="../university-02/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">University
 												02</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2408"><a
-										href="university-03/index.html" onClick="return true"><div
+										href="../university-03/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">University
 												03</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2587"><a
-										href="university-04/index.html" onClick="return true"><div
+										href="../university-04/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">University
 												04</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2731"><a
-										href="college-01/index.html" onClick="return true"><div
+										href="../college-01/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">College
 												01</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2842"><a
-										href="college-02/index.html" onClick="return true"><div
+										href="../college-02/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">College
 												02</span></div></a></li>
 							</ul>
 						</li>
 						<li
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-461 level-1"><a
-								href="academics/index.html" onClick="return true"><div
+								href="../academics/index.html" onClick="return true"><div
 									class="menu-item-wrap"><span
 										class="menu-item-title">Academics</span><span class="toggle-sub-menu">
 									</span></div></a><ul class="sub-menu children simple-menu"> <li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-462"><a
-										href="academics/index.html" onClick="return true"><div
+										href="../academics/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Academics</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a
-										href="academics-02/index.html" onClick="return true"><div
+										href="../academics-02/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Academics
 												02</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3104"><a
-										href="majors-and-programs/index.html" onClick="return true"><div
+										href="../majors-and-programs/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Majors
 												01</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a
-										href="majors-and-programs/index0533.html?course_category_preset=02"
+										href="../majors-and-programs/index0533.html?course_category_preset=02"
 										onClick="return true"><div class="menu-item-wrap"><span
 												class="menu-item-title">Majors 02</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a
-										href="majors-and-programs/index08be.html?course_category_preset=03"
+										href="../majors-and-programs/index08be.html?course_category_preset=03"
 										onClick="return true"><div class="menu-item-wrap"><span
 												class="menu-item-title">Majors 03</span></div></a></li>
 							</ul>
 						</li>
 						<li
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-695 level-1"><a
-								href="admissions/index.html" onClick="return true"><div
+								href="../admissions/index.html" onClick="return true"><div
 									class="menu-item-wrap"><span
 										class="menu-item-title">Admissions</span><span
 										class="toggle-sub-menu"> </span></div></a><ul
 								class="sub-menu children simple-menu"> <li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694"><a
-										href="undergraduate-admission/index.html" onClick="return true"><div
-											class="menu-item-wrap"><span class="menu-item-title">Undergraduate
+										href="../undergraduate-admission/index.html"
+										onClick="return true"><div class="menu-item-wrap"><span
+												class="menu-item-title">Undergraduate
 												Admission</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3427"><a
-										href="graduate-admission/index.html" onClick="return true"><div
+										href="../graduate-admission/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Graduate
 												Admission</span></div></a></li>
 							</ul>
 						</li>
 						<li
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1614 level-1"><a
-								href="research/index.html" onClick="return true"><div
+								href="../research/index.html" onClick="return true"><div
 									class="menu-item-wrap"><span
 										class="menu-item-title">Research</span></div></a></li>
 						<li
-							class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45 level-1"><a
+							class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-45 level-1"><a
 								href="#" onClick="return true"><div class="menu-item-wrap"><span
 										class="menu-item-title">Pages</span><span class="toggle-sub-menu">
 									</span></div></a><ul class="sub-menu children simple-menu"> <li
-									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1782"><a
-										href="about/index.html" onClick="return true"><div
+									class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1775 current_page_item menu-item-1782"><a
+										href="index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">About</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1066"><a
-										href="contact/index.html" onClick="return true"><div
+										href="../contact/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Contact</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1481"><a
-										href="campus-life/index.html" onClick="return true"><div
+										href="../campus-life/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Campus
 												Life</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2965"><a
-										href="request-info/index.html" onClick="return true"><div
+										href="../request-info/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Request
 												Info</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a
-										href="library/index.html" onClick="return true"><div
+										href="../library/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Library</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3088"><a
-										href="apply/index.html" onClick="return true"><div
+										href="../apply/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Apply</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a
-										href="careers/index.html" onClick="return true"><div
+										href="../careers/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Careers</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1150"><a
-										href="give-to-unicamp/index.html" onClick="return true"><div
+										href="../give-to-unicamp/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Give to
 												UniCamp</span></div></a></li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3185"><a
-										href="courses/index.html" onClick="return true"><div
+										href="../courses/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Courses</span><span class="toggle-sub-menu">
 											</span></div></a> <ul class="sub-menu children simple-menu"> <li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3189"><a
-												href="courses/index06f9.html?course_archive_preset=01"
+												href="../courses/index06f9.html?course_archive_preset=01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3190"><a
-												href="courses/index7219.html?course_archive_preset=02"
+												href="../courses/index7219.html?course_archive_preset=02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 02</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3191"><a
-												href="courses/index95f2.html?course_archive_preset=03"
+												href="../courses/index95f2.html?course_archive_preset=03"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 03</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3192"><a
-												href="courses/index2842.html?course_archive_preset=04"
+												href="../courses/index2842.html?course_archive_preset=04"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 04</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3193"><a
-												href="courses/index7a2c.html?course_archive_preset=05"
+												href="../courses/index7a2c.html?course_archive_preset=05"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 05</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3194"><a
-												href="courses/index81ea.html?course_archive_preset=06"
+												href="../courses/index81ea.html?course_archive_preset=06"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 06</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3195"><a
-												href="courses/indexe0e9.html?course_archive_preset=07"
+												href="../courses/indexe0e9.html?course_archive_preset=07"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 07</span></div></a></li>
 										<li
@@ -2915,22 +1878,22 @@ for (let j = 0; j < urlFields.length; j++) {
 														class="toggle-sub-menu"> </span></div></a> <ul
 												class="sub-menu children simple-menu"> <li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3181"><a
-														href="courses/the-entrepreneurs-guide-for-beginners/index0002.html?course_single_preset=01"
+														href="../courses/the-entrepreneurs-guide-for-beginners/index0002.html?course_single_preset=01"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Layout 01</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3182"><a
-														href="courses/the-entrepreneurs-guide-for-beginners/index1e95.html?course_single_preset=02"
+														href="../courses/the-entrepreneurs-guide-for-beginners/index1e95.html?course_single_preset=02"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Layout 02</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3183"><a
-														href="courses/the-entrepreneurs-guide-for-beginners/index543f.html?course_single_preset=03"
+														href="../courses/the-entrepreneurs-guide-for-beginners/index543f.html?course_single_preset=03"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Layout 03</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3184"><a
-														href="courses/the-entrepreneurs-guide-for-beginners/index42d9.html?course_single_preset=04"
+														href="../courses/the-entrepreneurs-guide-for-beginners/index42d9.html?course_single_preset=04"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Layout 04</span></div></a></li>
 											</ul>
@@ -2939,37 +1902,37 @@ for (let j = 0; j < urlFields.length; j++) {
 								</li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48"><a
-										href="blog/index.html" onClick="return true"><div
+										href="../blog/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Blog</span><span
 												class="toggle-sub-menu"> </span></div></a> <ul
 										class="sub-menu children simple-menu"> <li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a
-												href="blog/index5870.html?blog_archive_preset=grid-01"
+												href="../blog/index5870.html?blog_archive_preset=grid-01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a
-												href="blog/index8b19.html?blog_archive_preset=grid-02"
+												href="../blog/index8b19.html?blog_archive_preset=grid-02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 02</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a
-												href="blog/index1b60.html?blog_archive_preset=grid-03"
+												href="../blog/index1b60.html?blog_archive_preset=grid-03"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 03</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a
-												href="blog/index7898.html?blog_archive_preset=grid-04"
+												href="../blog/index7898.html?blog_archive_preset=grid-04"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 04</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a
-												href="blog/index1613.html?blog_archive_preset=list-01"
+												href="../blog/index1613.html?blog_archive_preset=list-01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">List Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a
-												href="blog/indexabc2.html?blog_archive_preset=list-02"
+												href="../blog/indexabc2.html?blog_archive_preset=list-02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">List Layout 02</span></div></a></li>
 										<li
@@ -2979,17 +1942,17 @@ for (let j = 0; j < urlFields.length; j++) {
 														class="toggle-sub-menu"> </span></div></a> <ul
 												class="sub-menu children simple-menu"> <li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a
-														href="how-to-harness-the-power-of-online-learning/index6d25.html?single_post_preset=left-sidebar"
+														href="../how-to-harness-the-power-of-online-learning/index6d25.html?single_post_preset=left-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Left Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a
-														href="how-to-harness-the-power-of-online-learning/index6d25.html?single_post_preset=left-sidebar"
+														href="../how-to-harness-the-power-of-online-learning/index6d25.html?single_post_preset=left-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Right Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a
-														href="how-to-harness-the-power-of-online-learning/index41da.html?single_post_preset=no-sidebar"
+														href="../how-to-harness-the-power-of-online-learning/index41da.html?single_post_preset=no-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">No Sidebar</span></div></a></li>
 											</ul>
@@ -2998,32 +1961,32 @@ for (let j = 0; j < urlFields.length; j++) {
 								</li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3151"><a
-										href="shop/index.html" onClick="return true"><div
+										href="../shop/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span class="menu-item-title">Shop</span><span
 												class="toggle-sub-menu"> </span></div></a> <ul
 										class="sub-menu children simple-menu"> <li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3163"><a
-												href="shop/index37ed.html?shop_archive_preset=01"
+												href="../shop/index37ed.html?shop_archive_preset=01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3164"><a
-												href="shop/indexbf0e.html?shop_archive_preset=02"
+												href="../shop/indexbf0e.html?shop_archive_preset=02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 02</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3165"><a
-												href="shop/index2310.html?shop_archive_preset=03"
+												href="../shop/index2310.html?shop_archive_preset=03"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Layout 03</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3152"><a
-												href="cart/index.html" onClick="return true"><div
+												href="../cart/index.html" onClick="return true"><div
 													class="menu-item-wrap"><span
 														class="menu-item-title">Cart</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3153"><a
-												href="checkout/index.html" onClick="return true"><div
+												href="../checkout/index.html" onClick="return true"><div
 													class="menu-item-wrap"><span
 														class="menu-item-title">Checkout</span></div></a></li>
 										<li
@@ -3033,37 +1996,37 @@ for (let j = 0; j < urlFields.length; j++) {
 														class="toggle-sub-menu"> </span></div></a> <ul
 												class="sub-menu children simple-menu"> <li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3225"><a
-														href="product/unicamp-hoodie/index0441.html?shop_single_preset=list-left-sidebar"
+														href="../product/unicamp-hoodie/index0441.html?shop_single_preset=list-left-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">List &#8211; Left
 																Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3226"><a
-														href="product/unicamp-hoodie/index3956.html?shop_single_preset=list-right-sidebar"
+														href="../product/unicamp-hoodie/index3956.html?shop_single_preset=list-right-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">List &#8211; Right
 																Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3227"><a
-														href="product/unicamp-hoodie/indexe3c2.html?shop_single_preset=list-no-sidebar"
+														href="../product/unicamp-hoodie/indexe3c2.html?shop_single_preset=list-no-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">List &#8211; No
 																Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3228"><a
-														href="product/unicamp-hoodie/index1428.html?shop_single_preset=tabs-left-sidebar"
+														href="../product/unicamp-hoodie/index1428.html?shop_single_preset=tabs-left-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Tabs &#8211; Left
 																Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3229"><a
-														href="product/unicamp-hoodie/index34db.html?shop_single_preset=tabs-right-sidebar"
+														href="../product/unicamp-hoodie/index34db.html?shop_single_preset=tabs-right-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Tabs &#8211; Right
 																Sidebar</span></div></a></li>
 												<li
 													class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3230"><a
-														href="product/unicamp-hoodie/index477b.html?shop_single_preset=tabs-no-sidebar"
+														href="../product/unicamp-hoodie/index477b.html?shop_single_preset=tabs-no-sidebar"
 														onClick="return true"><div class="menu-item-wrap"><span
 																class="menu-item-title">Tabs &#8211; No
 																Sidebar</span></div></a></li>
@@ -3073,47 +2036,47 @@ for (let j = 0; j < urlFields.length; j++) {
 								</li>
 								<li
 									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-66"><a
-										href="events/index.html" onClick="return true"><div
+										href="../events/index.html" onClick="return true"><div
 											class="menu-item-wrap"><span
 												class="menu-item-title">Events</span><span class="toggle-sub-menu">
 											</span></div></a> <ul class="sub-menu children simple-menu"> <li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174"><a
-												href="events/indexf17a.html?event_archive_preset=grid-01"
+												href="../events/indexf17a.html?event_archive_preset=grid-01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-175"><a
-												href="events/index3b5a.html?event_archive_preset=grid-02"
+												href="../events/index3b5a.html?event_archive_preset=grid-02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 02</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a
-												href="events/indexb568.html?event_archive_preset=grid-03"
+												href="../events/indexb568.html?event_archive_preset=grid-03"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 03</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-177"><a
-												href="events/index9aff.html?event_archive_preset=grid-04"
+												href="../events/index9aff.html?event_archive_preset=grid-04"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Grid Layout 04</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178"><a
-												href="events/index2787.html?event_archive_preset=list-01"
+												href="../events/index2787.html?event_archive_preset=list-01"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">List Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-179"><a
-												href="events/index76c6.html?event_archive_preset=list-02"
+												href="../events/index76c6.html?event_archive_preset=list-02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">List Layout 02</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-tp_event menu-item-182"><a
-												href="events/research-in-distance-education-conference-2021/index.html"
+												href="../events/research-in-distance-education-conference-2021/index.html"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Single Layout 01</span></div></a></li>
 										<li
 											class="menu-item menu-item-type-custom menu-item-object-custom menu-item-185"><a
-												href="events/how-to-harness-the-power-of-online-learning-10/index8dfb.html?single_event_preset=02"
+												href="../events/how-to-harness-the-power-of-online-learning-10/index8dfb.html?single_event_preset=02"
 												onClick="return true"><div class="menu-item-wrap"><span
 														class="menu-item-title">Single Layout 02</span></div></a></li>
 									</ul>
@@ -3167,22 +2130,22 @@ for (let j = 0; j < urlFields.length; j++) {
 		})();
 	</script>
 		<link rel='stylesheet' id='wc-blocks-style-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocksadac.css?ver=wc-9.8.5'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocksadac.css?ver=wc-9.8.5'
 			media='all' />
 		<link rel='stylesheet' id='rs-plugin-settings-css'
-			href='../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/css/rs61676.css?ver=6.7.31'
+			href='../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/css/rs61676.css?ver=6.7.31'
 			media='all' />
 		<style id='rs-plugin-settings-inline-css'>
 #rs-demo-id {}
 </style>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/polyfill/intersection-observer.min.js"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/polyfill/intersection-observer.min.js"
 			id="intersection-observer-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/js/jquery.powertip.min7359.js?ver=1.2.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/js/jquery.powertip.min7359.js?ver=1.2.0"
 			id="powertip-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/js/maps_points1efe.js?ver=1.2.8"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/devvn-image-hotspot/frontend/js/maps_points1efe.js?ver=1.2.8"
 			id="maps-points-js"></script>
 		<script id="isw-frontend-js-extra">
 /* <![CDATA[ */
@@ -3190,19 +2153,19 @@ var isw_vars = {"ajax":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/admin-a
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/insight-swatches/assets/js/frontend.minaff7.js?ver=1.6.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/insight-swatches/assets/js/frontend.minaff7.js?ver=1.6.0"
 			id="isw-frontend-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/js/rbtools.min0c0c.js?ver=6.7.29"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/js/rbtools.min0c0c.js?ver=6.7.29"
 			defer async id="tp-tools-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/js/rs6.min1676.js?ver=6.7.31"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/revslider/sr6/assets/js/rs6.min1676.js?ver=6.7.31"
 			defer async id="revmin-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6"
 			id="wp-hooks-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6"
 			id="wp-i18n-js"></script>
 		<script id="wp-i18n-js-after">
 /* <![CDATA[ */
@@ -3210,16 +2173,16 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/react.mine1ab.js?ver=18.3.1.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/react.mine1ab.js?ver=18.3.1.1"
 			id="react-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/react-dom.mine1ab.js?ver=18.3.1.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/react-dom.mine1ab.js?ver=18.3.1.1"
 			id="react-dom-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/escape-html.min3a9d.js?ver=6561a406d2d232a6fbd2"
 			id="wp-escape-html-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/element.minfa0f.js?ver=a4eeeadd23c0d7ab1d2d"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/element.minfa0f.js?ver=a4eeeadd23c0d7ab1d2d"
 			id="wp-element-js"></script>
 		<script id="tutor-script-js-extra">
 /* <![CDATA[ */
@@ -3227,7 +2190,7 @@ var _tutorobject = {"ajaxurl":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/js/tutor.min3b71.js?ver=3.5.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/js/tutor.min3b71.js?ver=3.5.0"
 			id="tutor-script-js"></script>
 		<script id="quicktags-js-extra">
 /* <![CDATA[ */
@@ -3235,22 +2198,22 @@ var quicktagsL10n = {"closeAllOpenTags":"Close all open tags","closeTags":"close
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/quicktags.min32d4.js?ver=6.8.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/quicktags.min32d4.js?ver=6.8.3"
 			id="quicktags-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/core.minb37e.js?ver=1.13.3"
 			id="jquery-ui-core-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/mouse.minb37e.js?ver=1.13.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/mouse.minb37e.js?ver=1.13.3"
 			id="jquery-ui-mouse-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/sortable.minb37e.js?ver=1.13.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/sortable.minb37e.js?ver=1.13.3"
 			id="jquery-ui-sortable-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery.ui.touch-punchc682.js?ver=0.2.2"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/jquery.ui.touch-punchc682.js?ver=0.2.2"
 			id="jquery-touch-punch-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/moment.minf799.js?ver=2.30.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/vendor/moment.minf799.js?ver=2.30.1"
 			id="moment-js"></script>
 		<script id="moment-js-after">
 /* <![CDATA[ */
@@ -3258,10 +2221,10 @@ moment.updateLocale( 'en_US', {"months":["January","February","March","April","M
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/deprecated.min0a8b.js?ver=e1f84915c5e8ae38964c"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/deprecated.min0a8b.js?ver=e1f84915c5e8ae38964c"
 			id="wp-deprecated-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/date.minf78d.js?ver=85ff222add187a4e358f"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/dist/date.minf78d.js?ver=85ff222add187a4e358f"
 			id="wp-date-js"></script>
 		<script id="wp-date-js-after">
 /* <![CDATA[ */
@@ -3274,10 +2237,10 @@ var _tutorobject = {"ajaxurl":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/js/tutor-front.min3b71.js?ver=3.5.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor/assets/js/tutor-front.min3b71.js?ver=3.5.0"
 			id="tutor-frontend-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/datepicker.minb37e.js?ver=1.13.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/jquery/ui/datepicker.minb37e.js?ver=1.13.3"
 			id="jquery-ui-datepicker-js"></script>
 		<script id="jquery-ui-datepicker-js-after">
 /* <![CDATA[ */
@@ -3285,16 +2248,16 @@ jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","curr
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/prism/prism.min3b71.js?ver=3.5.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/prism/prism.min3b71.js?ver=3.5.0"
 			id="tutor-prism-js-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/prism/script3b71.js?ver=3.5.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/lib/prism/script3b71.js?ver=3.5.0"
 			id="tutor-prism-script-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/js/front3b71.js?ver=3.5.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/tutor-pro/assets/js/front3b71.js?ver=3.5.0"
 			id="tutor-pro-front-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/underscore.min3ab8.js?ver=1.13.7"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/underscore.min3ab8.js?ver=1.13.7"
 			id="underscore-js"></script>
 		<script id="wp-util-js-extra">
 /* <![CDATA[ */
@@ -3302,19 +2265,19 @@ var _wpUtilSettings = {"ajax":{"url":"\/main\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/wp-util.min32d4.js?ver=6.8.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/wp-util.min32d4.js?ver=6.8.3"
 			id="wp-util-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/backbone.minaff7.js?ver=1.6.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/backbone.minaff7.js?ver=1.6.0"
 			id="backbone-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/print/jQuery.print75e4.js?ver=6.4.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/print/jQuery.print75e4.js?ver=6.4.5"
 			id="print-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/table-head-fixer/table-head-fixer75e4.js?ver=6.4.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/table-head-fixer/table-head-fixer75e4.js?ver=6.4.5"
 			id="table-head-fixer-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min75e4.js?ver=6.4.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/libs/perfect-scrollbar/js/perfect-scrollbar.jquery.min75e4.js?ver=6.4.5"
 			id="perfect-scrollbar-js"></script>
 		<script id="woosc-frontend-js-extra">
 /* <![CDATA[ */
@@ -3322,7 +2285,7 @@ var woosc_vars = {"wc_ajax_url":"\/main\/?wc-ajax=%%endpoint%%","nonce":"bd8fe9c
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/js/frontend75e4.js?ver=6.4.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-compare/assets/js/frontend75e4.js?ver=6.4.5"
 			id="woosc-frontend-js"></script>
 		<script id="woosw-frontend-js-extra">
 /* <![CDATA[ */
@@ -3330,22 +2293,22 @@ var woosw_vars = {"wc_ajax_url":"\/main\/?wc-ajax=%%endpoint%%","nonce":"4de763d
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/js/frontendd87f.js?ver=4.9.9"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woo-smart-wishlist/assets/js/frontendd87f.js?ver=4.9.9"
 			id="woosw-frontend-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/headroom.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/headroom.min91ee.js?ver=2.5.3"
 			id="headroom-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/elementor-waypoints/jquery.waypoints.minf39e.js?ver=4.0.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/elementor-waypoints/jquery.waypoints.minf39e.js?ver=4.0.1"
 			id="elementor-waypoints-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/smooth-scroll/jquery.smooth-scroll.min3601.js?ver=2.2.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/smooth-scroll/jquery.smooth-scroll.min3601.js?ver=2.2.0"
 			id="jquery-smooth-scroll-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0"
 			id="imagesloaded-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/swiper/js/swiper.min94a4.js?ver=8.4.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/swiper/js/swiper.min94a4.js?ver=8.4.5"
 			id="swiper-js"></script>
 		<script id="unicamp-swiper-wrapper-js-extra">
 /* <![CDATA[ */
@@ -3355,19 +2318,19 @@ var $unicampSwiper = {"fractionPrefixText":"Show","prevText":"Prev","nextText":"
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/swiper-wrapper.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/swiper-wrapper.min91ee.js?ver=2.5.3"
 			id="unicamp-swiper-wrapper-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/smartmenus/jquery.smartmenus.minc64e.js?ver=1.1.1"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/smartmenus/jquery.smartmenus.minc64e.js?ver=1.1.1"
 			id="smartmenus-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/growl/js/jquery.growl.min3ba1.js?ver=1.3.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/growl/js/jquery.growl.min3ba1.js?ver=1.3.3"
 			id="growl-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/modal.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/modal.min91ee.js?ver=2.5.3"
 			id="unicamp-modal-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/nice-select.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/nice-select.min91ee.js?ver=2.5.3"
 			id="unicamp-nice-select-js"></script>
 		<script id="unicamp-script-js-extra">
 /* <![CDATA[ */
@@ -3375,54 +2338,39 @@ var $unicamp = {"ajaxurl":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/admi
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/main.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/main.min91ee.js?ver=2.5.3"
 			id="unicamp-script-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/woo/general.min91ee.js?ver=2.5.3"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/woo/general.min91ee.js?ver=2.5.3"
 			id="unicamp-woo-general-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/webpack.runtime.min0d09.js?ver=3.29.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/webpack.runtime.min0d09.js?ver=3.29.0"
 			id="elementor-webpack-runtime-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/frontend-modules.min0d09.js?ver=3.29.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/frontend-modules.min0d09.js?ver=3.29.0"
 			id="elementor-frontend-modules-js"></script>
 		<script id="elementor-frontend-js-before">
 /* <![CDATA[ */
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_local_google_fonts":true,"theme_builder_v2":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"https:\/\/unicamp.thememove.com\/main\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/unicamp.thememove.com\/main\/wp-content\/uploads\/sites\/2"},"nonces":{"floatingButtonsClickTracking":"e0814127a0"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":2136,"title":"Main%20%E2%80%93%20Just%20another%20UniCamp%20Sites%20site","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.0","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_local_google_fonts":true,"theme_builder_v2":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true},"urls":{"assets":"https:\/\/unicamp.thememove.com\/main\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/unicamp.thememove.com\/main\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/unicamp.thememove.com\/main\/wp-content\/uploads\/sites\/2"},"nonces":{"floatingButtonsClickTracking":"e0814127a0"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":1775,"title":"About%20%E2%80%93%20Main","excerpt":"","featuredImage":false}};
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/frontend.min0d09.js?ver=3.29.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor/assets/js/frontend.min0d09.js?ver=3.29.0"
 			id="elementor-frontend-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/group-widget-carousel.js"
-			id="unicamp-group-widget-carousel-js"></script>
-		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/lightGallery/js/lightgallery-all.mind203.js?ver=1.6.12"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/lightGallery/js/lightgallery-all.mind203.js?ver=1.6.12"
 			id="lightgallery-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/grid-query.js"
-			id="unicamp-grid-query-js"></script>
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/group-widget-carousel.js"
+			id="unicamp-group-widget-carousel-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/matchHeight/jquery.matchHeight-min230a.js?ver=0.7.2"
-			id="matchheight-js"></script>
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/libs/countTo/jquery.countTo.min.js"
+			id="count-to-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/isotope/js/isotope.pkgd91ee.js?ver=2.5.3"
-			id="isotope-masonry-js"></script>
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/widget-counter.js"
+			id="unicamp-widget-counter-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/packery-mode/packery-mode.pkgd91ee.js?ver=2.5.3"
-			id="isotope-packery-js"></script>
-		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/grid-layout.min.js"
-			id="unicamp-grid-layout-js"></script>
-		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/widget-grid-post.js"
-			id="unicamp-widget-grid-post-js"></script>
-		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/elementor/assets/js/widgets/group-widget-grid.js"
-			id="unicamp-group-widget-grid-js"></script>
-		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min519f.js?ver=9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min519f.js?ver=9.8.5"
 			id="sourcebuster-js-js"></script>
 		<script id="wc-order-attribution-js-extra">
 /* <![CDATA[ */
@@ -3430,10 +2378,10 @@ var wc_order_attribution = {"params":{"lifetime":1.0000000000000001e-5,"session"
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min519f.js?ver=9.8.5"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min519f.js?ver=9.8.5"
 			id="wc-order-attribution-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/validate/jquery.validate.min2c75.js?ver=1.17.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/libs/validate/jquery.validate.min2c75.js?ver=1.17.0"
 			id="validate-js"></script>
 		<script id="unicamp-login-js-extra">
 /* <![CDATA[ */
@@ -3441,7 +2389,7 @@ var $unicampLogin = {"validatorMessages":{"required":"This field is required","r
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/login.min2c75.js?ver=1.17.0"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/login.min2c75.js?ver=1.17.0"
 			id="unicamp-login-js"></script>
 		<script id="unicamp-course-general-js-extra">
 /* <![CDATA[ */
@@ -3449,13 +2397,10 @@ var $unicampCourseWishlist = {"addedText":"Remove from wishlist","addText":"Add 
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/tutor/general.min9875.js?ver=null"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/js/tutor/general.min9875.js?ver=null"
 			id="unicamp-course-general-js"></script>
-		<script defer
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/mailchimp-for-wp/assets/js/formsad2c.js?ver=4.10.3"
-			id="mc4wp-forms-api-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min89ce.js?ver=3.28.4"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min89ce.js?ver=3.28.4"
 			id="elementor-pro-webpack-runtime-js"></script>
 		<script id="elementor-pro-frontend-js-before">
 /* <![CDATA[ */
@@ -3463,12 +2408,12 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/unicamp.thememove.com\/ma
 /* ]]> */
 </script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/frontend.min89ce.js?ver=3.28.4"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/frontend.min89ce.js?ver=3.28.4"
 			id="elementor-pro-frontend-js"></script>
 		<script
-			src="../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min89ce.js?ver=3.28.4"
+			src="../../../unicamp-4437.kxcdn.com/main/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min89ce.js?ver=3.28.4"
 			id="pro-elements-handlers-js"></script>
 	</body>
 
-	<!-- Mirrored from unicamp.thememove.com/main/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 21:36:10 GMT -->
+	<!-- Mirrored from unicamp.thememove.com/main/about/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 11 Oct 2025 21:38:10 GMT -->
 </html>

@@ -10,6 +10,8 @@ Route::get('/', function () {
 
 Route::get('/home',[PageController::class,'home'])->name('home');
 Route::get('/about',[PageController::class,'about'])->name('about');
+Route::get('/course',[PageController::class,'course'])->name('course');
+Route::get('/admission',[PageController::class,'admission'])->name('admission');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
