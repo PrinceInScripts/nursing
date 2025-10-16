@@ -26,11 +26,15 @@
 															data-widget_type="image.default">
 															<div class="elementor-widget-container">
 																<a href="../index.html">
-																	<img width="448" height="136"
-																		src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png"
-																		class="attachment-full size-full wp-image-114" alt
-																		srcset="https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png 448w, https://unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo-300x91.png 300w"
-																		sizes="(max-width: 448px) 100vw, 448px" /> </a>
+																	 <img 
+            width="448" 
+            height="136"
+            src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png"
+            class="attachment-full size-full wp-image-114"
+            alt="College Logo"
+            srcset="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png 300w"
+            sizes="(max-width: 448px) 100vw, 448px"
+        /> </a>
 															</div>
 														</div>
 														<div
