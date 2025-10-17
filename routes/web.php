@@ -4,6 +4,7 @@ use App\Http\Controllers\AdminController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\GalleryController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -17,6 +18,9 @@ Route::get('/admission',[PageController::class,'admission'])->name('admission');
 Route::get('/admin/gallery/create',[AdminController::class,'index'])->name('add-gallery');
 
 Route::post('/admin/gallery/store',[AdminController::class,'store'])->name('gallery.store');
+
+Route::get('/gallery',[GalleryController::class,'gallery'])->name('gallery');
+Route::get('/gallery/{slug}',[GalleryController::class,'view'])->name('gallery.view');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
