@@ -4420,7 +4420,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																<div class="heading-primary-wrap">
 																	<h2 class="heading-primary elementor-heading-title">
 																		Welcome to
-																		UniCamp</h2>
+																		MB NURSING COLLEGE </h2>
 																</div>
 
 															</div>
@@ -4824,7 +4824,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																							<div class="description">
 																								Our financial aid
 																								program makes MB NURSING
-																								COLLEGEaffordable for
+																								COLLEGE affordable for
 																								every family throughout
 																								the world. </div>
 																						</div>
@@ -6087,7 +6087,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 
 												<div class="heading-primary-wrap">
 													<h3 class="heading-primary elementor-heading-title">Get the latest
-														<mark>MB NURSING COLLEGEnews</mark> delivered to you inbox
+														<mark>MB NURSING COLLEGE news</mark> delivered to you inbox
 													</h3>
 												</div>
 
@@ -6210,7 +6210,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																<div class="heading-primary-wrap">
 																	<div
 																		class="heading-primary elementor-heading-title">
-																		UniCamp
+																		MB NURSING COLLEGE 
 																		transforms lives through accessible,
 																		student-centered,
 																		high-quality education and meets learners’ needs
@@ -6493,7 +6493,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/main\/wp-admin\/admin-ajax.php","w
 																	<div
 																		class="heading-primary elementor-heading-title">
 																		&copy;
-																		2021MB NURSING COLLEGE. All Rights Reserved</div>
+																		2021 MB NURSING COLLEGE. All Rights Reserved</div>
 																</div>
 
 															</div>
