@@ -29,10 +29,10 @@
 																	 <img 
             width="448" 
             height="136"
-            src="../../../unicamp-4437.kxcdn.com/main/wp-content/uploads/sites/2/2021/01/light-logo.png"
+            src="assets/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png"
             class="attachment-full size-full wp-image-114"
             alt="College Logo"
-            srcset="../../../unicamp-4437.kxcdn.com/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png 300w"
+            srcset="assets/main/wp-content/themes/unicamp/assets/images/logo/dark-logo.png 300w"
             sizes="(max-width: 448px) 100vw, 448px"
         /> </a>
 															</div>
@@ -45,7 +45,7 @@
 																<div class="tm-modern-heading">
 
 																	<div class="heading-primary-wrap">
-																		<div class="heading-primary elementor-heading-title">UniCamp
+																		<div class="heading-primary elementor-heading-title">MB NURSING COLLEGE
 																			transforms lives through accessible, student-centered,
 																			high-quality education and meets learners’ needs for a
 																			lifetime.</div> </div>
@@ -384,7 +384,7 @@
 
 																	<div class="heading-primary-wrap">
 																		<div class="heading-primary elementor-heading-title">&copy;
-																			2021 UniCamp. All Rights Reserved</div> </div>
+																			2021 MB NURSING COLLEGE. All Rights Reserved</div> </div>
 
 																</div>
 															</div>
